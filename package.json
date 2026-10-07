@@ -1,0 +1,31 @@
+{
+  "name": "gracepack-honey-packaging",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/build-honey-site.mjs",
+    "start": "node scripts/serve-out.mjs",
+    "preview": "node scripts/serve-out.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "0.468.0",
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "18.3.18",
+    "@types/react-dom": "18.3.5",
+    "sharp": "^0.35.3",
+    "typescript": "^5.9.3"
+  },
+  "browserslist": [
+    "Chrome >= 109",
+    "Edge >= 109",
+    "Firefox >= 109",
+    "Safari >= 16.4",
+    "iOS >= 16.4"
+  ]
+}

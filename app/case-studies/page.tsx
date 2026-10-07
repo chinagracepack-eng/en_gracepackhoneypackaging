@@ -1,0 +1,5 @@
+import {metadata as meta} from '../seo';
+import {Breadcrumbs,Intro,CTA} from '../components/Common';
+import {CaseStudyCards} from '../components/CaseStudyCards';
+export const metadata=meta('Honey Packaging Case Studies','Explore honey bottle and cap sourcing, compare bear bottle sizes and plan mini glass honey gift packs.','/case-studies/','/assets/honey-cases/bottle-cap-review.webp');
+export default function Page(){return <><div className="wrap"><Breadcrumbs items={[{name:'Case studies',url:'/case-studies/'}]}/></div><Intro title="Honey Packaging Case Studies" description="Explore bottle-and-cap compatibility, honey pack sizes and mini honey gift packs. Compare the specifications and sourcing decisions involved in each project." image="/assets/honey-cases/bottle-cap-review.webp"/><section className="section"><div className="wrap"><div className="study-scope"><strong>From sourcing to size selection</strong><p>Review closure fit, fill size and gift-box planning across three honey packaging projects.</p></div><CaseStudyCards/></div></section><CTA/></>}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "selection",
+    "title": "Choosing bottles & jars",
+    "intro": "Start with how your honey will be filled, served and presented.",
+    "items": [
+      [
+        "Do you supply honey or empty packaging?",
+        "We supply bottles, jars and packaging components. Honey and decorations shown in photographs are for presentation; your filling operation prepares the finished packaged product."
+      ],
+      [
+        "Should I choose a squeeze bottle or a wide-mouth jar?",
+        "Start with the serving method. Compare dispensing bottles for honey served through a cap, and wider-mouth jars for spoon access. Request a sample to evaluate the actual honey, opening and pack handling."
+      ],
+      [
+        "Does a 250 ml bottle hold 250 g of honey?",
+        "Volume and weight are different measurements. The 250 ml bear bottle has an approximate 350 g honey fill. Check the actual weight and headspace using your honey and chosen fill line."
+      ],
+      [
+        "Are the listed capacities nominal or brimful?",
+        "The listed volumes are water capacities. Request the dimensioned drawing to confirm nominal or brimful capacity, and check the working fill level and headspace with your honey."
+      ],
+      [
+        "Do the listed options differ in shape, size or closure?",
+        "Options may differ in capacity, body shape or closure. Compare the specifications for each selection and request the assembled sample before ordering."
+      ]
+    ]
+  },
+  {
+    "id": "closures",
+    "title": "Caps, liners & dispensing",
+    "intro": "Match the container and closure as one assembly.",
+    "items": [
+      [
+        "Can I reuse a cap I already buy?",
+        "Send the cap drawing or a physical sample together with the intended bottle. Compare the full neck finish, sealing surface, liner and application method. Matching the apparent diameter alone is insufficient."
+      ],
+      [
+        "Does every inverted bottle have a silicone valve?",
+        "Valve availability depends on the selected closure. Request the complete cap specification and test the proposed bottle and valve with your honey."
+      ],
+      [
+        "Can I order bottles and caps separately?",
+        "Include the required quantities for each component in the inquiry. Separate packing, assembly and any liner or seal requirements should be written into the quotation."
+      ],
+      [
+        "Are induction seals or tamper bands included?",
+        "Only when specified in the agreed assembly. State the required seal, liner or tamper-evident feature and confirm compatibility with the container and filling equipment."
+      ],
+      [
+        "How should I assess dispensing and leakage?",
+        "Test the assembled bottle and closure with your honey under the agreed filling, serving and transport conditions. Record dispensing, reclosure and leakage results against the acceptance criteria for your order."
+      ]
+    ]
+  },
+  {
+    "id": "orders",
+    "title": "MOQ, samples & timing",
+    "intro": "Order terms follow the selected model and customization.",
+    "items": [
+      [
+        "What is the minimum order quantity?",
+        "Minimum order quantities depend on the size, closure and decoration. Available figures appear in the product specifications; contact us to confirm the MOQ and availability for your chosen pack."
+      ],
+      [
+        "Can I request samples before a bulk order?",
+        "Yes. Send the model references and intended use. We will confirm existing sample availability, any sample or customization charge, and courier arrangements before dispatch."
+      ],
+      [
+        "Can I use my own courier account?",
+        "You can arrange courier collection using your account. Confirm the pickup details with our team once the sample parcel is ready."
+      ],
+      [
+        "How long does production take?",
+        "Allow 15–20 days as a general production-planning reference. Your product, quantity, decoration, sample approvals and the current production schedule determine the confirmed lead time in your quotation."
+      ],
+      [
+        "Can I place a small trial order?",
+        "Ask about the exact model and quantity. Stock, packing constraints and any small-order charge must be checked; a trial quantity available for one product does not establish the terms for another."
+      ]
+    ]
+  },
+  {
+    "id": "custom",
+    "title": "Labels, colors & custom development",
+    "intro": "Develop the pack around the real body and closure.",
+    "items": [
+      [
+        "Can the label and cap color be customized?",
+        "Label, printing and cap-color options can be reviewed for the selected pack. Provide artwork, color references and quantity so feasibility, minimum quantities and charges can be confirmed."
+      ],
+      [
+        "Can one label fit several sizes?",
+        "Use a shared design if desired, but check dimensions separately on every selected bottle or jar. Bear details, ribs, shoulders and corners can change the usable label area."
+      ],
+      [
+        "Can you develop a new honey bottle shape?",
+        "A new plastic shape can be reviewed from a brief, sketch or reference sample. The process includes drawing review, a prototype, tooling assessment and sample approval. Design rights and tooling terms are agreed separately."
+      ],
+      [
+        "How long does a custom project take?",
+        "Allow 4–6 weeks as a general planning reference for a custom project. New tooling, sample revisions, decoration and production quantity affect timing; request a schedule covering development, approval and production."
+      ],
+      [
+        "Can you help with a honey gift set?",
+        "We can discuss jars, lids and outer-pack coordination through the relevant supply partners. Approve the assembled sample, label size, insert and protective packing as one set; pictured decorations are not automatically included."
+      ]
+    ]
+  },
+  {
+    "id": "quality",
+    "title": "Materials, filling & documentation",
+    "intro": "Find material reports and filling requirements for your selected container and closure.",
+    "items": [
+      [
+        "Do you manufacture glass as well as plastic?",
+        "Gracepack’s core manufacturing focus is plastic bottles and jars. Glass packaging and related gift boxes can be coordinated with partner factories. The proposed supply route should be clear in the quotation."
+      ],
+      [
+        "Can I hot-fill honey into these PET bottles?",
+        "Hot-fill suitability must be confirmed for the selected bottle and closure. Share the filling temperature, holding time and cooling method so the assembly can be assessed and tested for your process."
+      ],
+      [
+        "Which documents can I review?",
+        "The Quality page provides available certificates and sample reports with their scopes. Ask which documents apply to your proposed material, body, closure and destination. A report for one tested sample does not certify every model."
+      ],
+      [
+        "Do the PET and PP PPWR reports cover the whole package?",
+        "The available reports cover the identified PET and PP samples and the specified heavy-metal and total-fluorine tests. They are not a blanket certification of every model or every PPWR requirement. Review the report scope with the selected pack."
+      ],
+      [
+        "Can a recycled-material option be quoted?",
+        "Include your target recycled content, appearance and destination in the inquiry. Availability and applicable food-contact documentation must be confirmed for the proposed material; standard PET listings do not specify a recycled percentage."
+      ]
+    ]
+  },
+  {
+    "id": "shipping",
+    "title": "Packing, shipping & quotation",
+    "intro": "Plan component costs, protective packing and delivery for your complete order.",
+    "items": [
+      [
+        "What does the carton quantity include?",
+        "The packing arrangement must specify bodies, caps or assembled units. Catalog quantities and weights are references; decoration, separate closures, bags and dividers can change the final packing list."
+      ],
+      [
+        "Can you arrange pallets or glass protection?",
+        "Cartons and pallet arrangements can be discussed. For glass, review dividers and protective inserts with the selected jar. Pallets and gift packaging can increase shipment volume and change freight cost."
+      ],
+      [
+        "Can goods go to another supplier for consolidation?",
+        "Share the consolidation address, receiving contact, required arrival date and carton-marking instructions. We will review the delivery arrangements and related costs with your quotation."
+      ],
+      [
+        "What should a complete quotation include?",
+        "List the bottle or jar, cap, liner or seal, decoration, tooling where applicable, packing and transport. State currency, quantity, delivery terms, payment schedule and quote validity so alternatives can be compared consistently."
+      ],
+      [
+        "Are your case studies all completed orders?",
+        "The sourcing inquiry remained at quotation stage. The bear-bottle size review and mini-jar gift-pack plan cover product specifications and packaging decisions."
+      ]
+    ]
+  }
+]

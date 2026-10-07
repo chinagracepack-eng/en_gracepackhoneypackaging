@@ -1,0 +1,11 @@
+import fs from 'node:fs';import path from 'node:path';
+const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(x=>x.isDirectory()?walk(path.join(d,x.name)):[path.join(d,x.name)]);
+const files=walk('out'),htmls=files.filter(f=>f.endsWith('.html'));let errors=[];const canonicals=new Set();
+for(const file of htmls){const html=fs.readFileSync(file,'utf8');if(!html.includes('lang="en-US"'))errors.push(`${file}: language`);if(!file.endsWith('404.html')&&!file.includes('/404/')){if((html.match(/<h1[ >]/g)||[]).length!==1)errors.push(`${file}: h1`);const canonical=html.match(/rel="canonical" href="([^"]+)"/);const noindex=/<meta name="robots" content="[^"]*noindex/i.test(html);if(!canonical||!canonical[1].startsWith('https://gracepackhoneypackaging.com/'))errors.push(`${file}: canonical`);else if(!noindex){if(canonicals.has(canonical[1]))errors.push(`${file}: duplicate canonical`);canonicals.add(canonical[1]);}if(!/<meta name="description" content="[^"]+"/.test(html))errors.push(`${file}: description`);}
+if(/gracepackcondimentpackaging|fr-FR|Demande de devis|Bouteilles|\/produits\//i.test(html))errors.push(`${file}: old site residue`);
+for(const m of html.matchAll(/(?:href|src)="(\/[^"#?]*)/g)){const u=m[1];if(u.startsWith('//'))continue;const clean=decodeURI(u);const target=path.join('out',clean.endsWith('/')?clean+'index.html':clean);if(!fs.existsSync(target)&&!fs.existsSync(target+'/index.html'))errors.push(`${file}: missing ${u}`);}
+for(const m of html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs)){try{JSON.parse(m[1]);}catch{errors.push(`${file}: invalid JSON-LD`);}}
+}
+const sitemap=fs.readFileSync('out/sitemap.xml','utf8');const urls=[...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(x=>x[1]);if(urls.length!==canonicals.size||new Set(urls).size!==urls.length)errors.push(`Expected ${canonicals.size} unique sitemap URLs, got ${urls.length}`);
+for(const url of urls)if(!canonicals.has(url))errors.push(`Sitemap URL lacks matching canonical: ${url}`);
+const report={htmlPages:htmls.length,indexablePages:canonicals.size,sitemapUrls:urls.length,errors};fs.mkdirSync('content-evidence/qa',{recursive:true});fs.writeFileSync('content-evidence/qa/export-check.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));if(errors.length)process.exit(1);

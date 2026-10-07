@@ -1,0 +1,70 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/products/pet-honey-bear-bottle-320ml-g05/",
+      "destination": "/products/pet-honey-bear-bottle-320ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/pet-honey-bear-bottle-250ml-g41/",
+      "destination": "/products/pet-honey-bear-bottle-250ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/ribbed-honey-squeeze-bottle-180ml-g07/",
+      "destination": "/products/ribbed-honey-squeeze-bottle-180ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/hexagon-honey-squeeze-bottle-360ml-a66/",
+      "destination": "/products/hexagon-honey-squeeze-bottle-360ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/wide-mouth-pet-honey-jar-370ml-ad5/",
+      "destination": "/products/wide-mouth-pet-honey-jar-370ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/mini-glass-honey-jar-25ml-blp0317/",
+      "destination": "/products/mini-glass-honey-jar-25ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/oval-inverted-honey-bottle-g12/",
+      "destination": "/products/oval-inverted-honey-bottle/",
+      "permanent": true
+    },
+    {
+      "source": "/products/honey-bear-bottle-175ml-g02/",
+      "destination": "/products/honey-bear-bottle-175ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/honey-bottle-a54-360ml/",
+      "destination": "/products/honey-bottle-360ml/",
+      "permanent": true
+    },
+    {
+      "source": "/products/oval-honey-bottles-g20-g21/",
+      "destination": "/products/oval-honey-bottles/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/blog/glass-vs-plastic-honey-packaging/",
+      "destination": "/resources/blog/how-to-choose-honey-packaging-manufacturer-china/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/blog/honey-bottle-caps-and-filling-trials/",
+      "destination": "/honey-jar-lids-and-caps/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/blog/mini-honey-jar-gift-packaging/",
+      "destination": "/mini-honey-jars/",
+      "permanent": true
+    }
+  ]
+}

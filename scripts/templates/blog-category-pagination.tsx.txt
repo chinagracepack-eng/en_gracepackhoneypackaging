@@ -1,0 +1,8 @@
+import {notFound} from 'next/navigation';
+import {BlogListing} from '../../../../../../components/Blog';
+import {blogPages,blogCategories,listingUrl} from '../../../../../../blog-data';
+import {metadata as meta} from '../../../../../../seo';
+export const dynamicParams=false;
+export const generateStaticParams=()=>blogPages().filter(p=>p.category).map(p=>({slug:p.category!,page:String(p.page)}));
+export function generateMetadata({params}:{params:{slug:string;page:string}}){const c=blogCategories.find(c=>c.slug===params.slug);return c?meta(`${c.title} — Page ${params.page}`,c.description,listingUrl(c.slug,Number(params.page))):{};}
+export default function Page({params}:{params:{slug:string;page:string}}){if(!blogPages().some(p=>p.category===params.slug&&String(p.page)===params.page))notFound();return <BlogListing category={params.slug} page={Number(params.page)}/>;}

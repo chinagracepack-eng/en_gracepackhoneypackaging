@@ -1,0 +1,12 @@
+'use client';
+import CaseStudyNavigation from './CaseStudyNavigation';
+import Link from 'next/link';
+import {useEffect,useRef,useState} from 'react';
+import {categories} from '../data';
+import NavigationDetails from './NavigationDetails';
+export default function MobileNavigation(){
+ const [open,setOpen]=useState(false);const dialog=useRef<HTMLDialogElement>(null);const trigger=useRef<HTMLButtonElement>(null);
+ useEffect(()=>{if(!open)return;const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous}},[open]);
+ function close(){dialog.current?.close();setOpen(false);trigger.current?.focus()}
+ return <div className="mobile-navigation"><button ref={trigger} className="mobile-nav-toggle" aria-label="Open navigation menu" aria-expanded={open} aria-controls="honey-mobile-navigation" onClick={()=>{dialog.current?.showModal();setOpen(true)}}><span/><span/><span/></button><dialog ref={dialog} id="honey-mobile-navigation" className="mobile-nav-dialog" aria-label="Mobile navigation" onCancel={e=>{e.preventDefault();close()}} onClick={e=>{if(e.target===e.currentTarget)close()}}><div className="mobile-nav-panel"><div className="mobile-nav-top"><span>Explore Gracepack</span><button className="mobile-nav-close" aria-label="Close navigation menu" autoFocus onClick={close}><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div><nav aria-label="Mobile navigation links" onClick={e=>{if((e.target as HTMLElement).closest('a'))close()}}><NavigationDetails className="mobile-nav-group" label="Products" href="/products/">{categories.map(c=><Link key={c.id} href={`/${c.slug}/`}>{c.title}</Link>)}</NavigationDetails><Link className="mobile-nav-direct" href="/custom-honey-packaging/">Custom packaging</Link><CaseStudyNavigation mobile/><NavigationDetails className="mobile-nav-group" label="Resources" href="/resources/"><Link href="/resources/blog/">Blog</Link><Link href="/faq/">Honey packaging FAQ</Link></NavigationDetails><NavigationDetails className="mobile-nav-group" label="About" href="/about/"><Link href="/quality/">Quality</Link><Link href="/factory/">Factory</Link></NavigationDetails><Link className="mobile-nav-direct" href="/contact/">Contact</Link><Link className="button mobile-nav-quote" href="/contact/">Get a quote ↗</Link></nav></div></dialog></div>
+}

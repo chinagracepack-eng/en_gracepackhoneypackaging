@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import {Intro,Breadcrumbs,CTA} from './Common';
+import FAQLibrary from './FAQLibrary';
+export default function HoneyFAQPage(){return <><div className="wrap"><Breadcrumbs items={[{name:'Resources',url:'/resources/'},{name:'Honey packaging FAQ',url:'/faq/'}]}/></div><Intro title="Honey Packaging FAQs" description="Find answers about honey fill weights, bottles and jars, caps, samples, customization, documentation and export packing." image="/assets/honey/faq-glass-jar-family.webp"/><section className="section"><FAQLibrary/></section><section className="section soft"><div className="wrap split"><div><h2>Prepare Your Packaging Order</h2><p>Send your preferred container, honey fill weight, closure requirements, quantity and delivery destination.</p></div><Link className="button" href="/contact/">Discuss your packaging ↗</Link></div></section><CTA/></>}

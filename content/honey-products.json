@@ -1,0 +1,1861 @@
+[
+  {
+    "slug": "pet-honey-bear-bottle-320ml",
+    "title": "320 ml PET Honey Bear Bottle",
+    "model": "G-05",
+    "material": "PET",
+    "image": "bear-g05",
+    "categories": [
+      "plastic",
+      "bear",
+      "squeeze"
+    ],
+    "description": "Clear PET bear bottle with a front label panel and flip-top closure for branded honey products. The 320 ml capacity has an approximate 450 g reference honey fill.",
+    "volume": "320 ml",
+    "honeyWeight": "450 g",
+    "neck": "38-400",
+    "gallery": [
+      "bear-g05-open"
+    ],
+    "variants": [
+      {
+        "model": "G-05",
+        "volume": "320 ml",
+        "honeyWeight": "450 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-05-64",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "64"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "pet-honey-bear-bottle-250ml",
+    "title": "250 ml PET Honey Bear Bottle",
+    "model": "G-41",
+    "material": "PET",
+    "image": "bear-g41",
+    "categories": [
+      "plastic",
+      "bear",
+      "squeeze"
+    ],
+    "description": "Compact PET bear bottle for smaller branded honey packs, with a defined front label panel and molded bear details. The 250 ml capacity has an approximate 350 g reference honey fill.",
+    "volume": "250 ml",
+    "honeyWeight": "350 g",
+    "neck": "38-400",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "G-41",
+        "volume": "250 ml",
+        "honeyWeight": "350 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-41-9",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "9"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "ribbed-honey-squeeze-bottle-180ml",
+    "title": "180 ml Ribbed Honey Squeeze Bottle",
+    "model": "G-07",
+    "material": "PET",
+    "image": "squeeze-g07",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Oval PET squeeze bottle with ribbed sides, a flat label panel and a flip-top cap. The compact 180 ml format has an approximate 250 g reference honey fill.",
+    "volume": "180 ml",
+    "honeyWeight": "250 g",
+    "neck": "28-400",
+    "gallery": [
+      "squeeze-g07-use"
+    ],
+    "variants": [
+      {
+        "model": "G-07",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-07-59",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "59"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "hexagon-honey-squeeze-bottle-360ml",
+    "title": "360 ml Hexagon Honey Squeeze Bottle",
+    "model": "A66",
+    "material": "PET",
+    "image": "hexagon-squeeze-a66",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Flat hexagon PET honey bottle with a pointed dispensing cap. Broad front and back faces provide space for branding on a distinctive branded 360 ml pack.",
+    "volume": "360 ml",
+    "honeyWeight": "500 g",
+    "neck": "41-410",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A66",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "41-410",
+        "closure": "PP cap",
+        "image": "catalog-a66-77",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "77"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "wide-mouth-pet-honey-jar-370ml",
+    "title": "370 ml Wide-Mouth PET Honey Jar",
+    "model": "AD-5",
+    "material": "PET",
+    "image": "round-pet-jar-ad5",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Clear PET jar with a wide opening for filling and spoon access. The 370 ml body uses a 63-400 neck finish for a matched cap and sealing assembly.",
+    "volume": "370 ml",
+    "honeyWeight": "500 g",
+    "neck": "63-400",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "AD-5",
+        "volume": "370 ml",
+        "honeyWeight": "500 g",
+        "neck": "63-400",
+        "closure": "PP cap",
+        "image": "catalog-ad-5-16",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "16"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "mini-glass-honey-jar-25ml",
+    "title": "25 ml Mini Round Glass Honey Jar",
+    "model": "YGS-BLP0317",
+    "material": "Glass",
+    "image": "mini-glass-25ml",
+    "categories": [
+      "glass",
+      "mini"
+    ],
+    "description": "Mini round glass jar with a metal lid option for tasting sets, gift boxes and event favors. The 25 ml capacity has a 35 g reference honey fill.",
+    "volume": "25 ml",
+    "honeyWeight": "35 g",
+    "neck": "39-400",
+    "gallery": [
+      "mini-glass-lids",
+      "mini-glass-scene"
+    ],
+    "variants": [
+      {
+        "model": "YGS-BLP0317",
+        "volume": "25 ml",
+        "honeyWeight": "35 g",
+        "neck": "39-400",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-blp0317-46",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "46"
+      }
+    ],
+    "closure": "Tin cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "hexagon-glass-honey-jars",
+    "title": "Hexagon Glass Honey Jar Series",
+    "model": "YGS-SPP0583 / 0584 / 0585",
+    "material": "Glass",
+    "image": "hexagon-glass-family",
+    "categories": [
+      "glass",
+      "hexagon",
+      "mini"
+    ],
+    "description": "Six-sided glass honey jars with flat label panels and metal lid options. Three sizes support a coordinated branded or gift range, including a 250 g reference honey fill option.",
+    "volume": "85 / 100 / 180 ml",
+    "honeyWeight": "120 / 140 / 250 g",
+    "neck": "Match the lid to the selected jar",
+    "gallery": [
+      "hexagon-glass-lids"
+    ],
+    "variants": [
+      {
+        "model": "YGS-SPP0583",
+        "volume": "85 ml",
+        "honeyWeight": "120 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0583-94",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "94"
+      },
+      {
+        "model": "YGS-SPP0584",
+        "volume": "100 ml",
+        "honeyWeight": "140 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0584-95",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "95"
+      },
+      {
+        "model": "YGS-SPP0585",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0585-96",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "96"
+      }
+    ],
+    "closure": "Tin cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "ribbed-glass-honey-jars",
+    "title": "Beehive Glass Honey Jars with Lids",
+    "model": "YGS-SPP0449 / 0450 / 0451",
+    "material": "Glass",
+    "image": "glass-ribbed-family",
+    "categories": [
+      "glass"
+    ],
+    "description": "Beehive-shaped glass honey jars with ribbed walls, a central label panel and matching metal lid options. Three capacities support coordinated branded honey lines and gift-pack formats.",
+    "volume": "180 / 350 / 720 ml",
+    "honeyWeight": "250 / 500 / 1,000 g",
+    "neck": "Match the lid to the selected jar",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP0449",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0449-91",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "91"
+      },
+      {
+        "model": "YGS-SPP0450",
+        "volume": "350 ml",
+        "honeyWeight": "500 g",
+        "neck": "60-400",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0450-92",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "92"
+      },
+      {
+        "model": "YGS-SPP0451",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0451-93",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "93"
+      }
+    ],
+    "closure": "Tin cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Catalog capacities are reference values. Each model is quoted and sampled separately; request its drawing and assembled closure before approval."
+  },
+  {
+    "slug": "cylindrical-honey-nozzle-bottles",
+    "title": "Cylindrical Honey Nozzle Bottles",
+    "model": "A71 / A72",
+    "material": "PET",
+    "image": "catalog-a71-0",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Straight-sided PET honey bottles with dispensing closures in two sizes. The cylindrical bodies provide space for wraparound labels and a taller shelf presentation.",
+    "volume": "250 ml / 180 ml",
+    "honeyWeight": "350 g / 210 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A71",
+        "volume": "250 ml",
+        "honeyWeight": "350 g",
+        "neck": "42-400",
+        "closure": "PP cap",
+        "image": "catalog-a71-0",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "0"
+      },
+      {
+        "model": "A72",
+        "volume": "180 ml",
+        "honeyWeight": "210 g",
+        "neck": "42-400",
+        "closure": "PP cap",
+        "image": "catalog-a72-51",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "51"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "The cylindrical body suits a wraparound label. Confirm how the artwork meets at the back and how much clear space is needed below the cap."
+  },
+  {
+    "slug": "ribbed-pet-honey-bottles",
+    "title": "Ribbed PET Honey Bottle Series",
+    "model": "GF-019 / G-109 / GF-018 / GF-017 / YGS-SPP1640 / GF-015 / GF-016 / G-06 / YGS-SPP1654",
+    "material": "PET",
+    "image": "catalog-gf-019-1",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Ribbed PET honey bottles in multiple capacities and body profiles, with model-specific neck finishes and closure options. The series supports coordinated squeeze-bottle ranges for different honey fill targets.",
+    "volume": "740 ml / 180 ml / 380 ml / 200 ml / 360 ml / 70 ml / 130 ml / 330 ml / 720 ml",
+    "honeyWeight": "1000 g / 250 g / 500 g / 100 g / 180 g / 450 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "GF-019",
+        "volume": "740 ml",
+        "honeyWeight": "1000 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-019-1",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "1"
+      },
+      {
+        "model": "G-109",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-109-8",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "8"
+      },
+      {
+        "model": "GF-018",
+        "volume": "380 ml",
+        "honeyWeight": "500 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-018-12",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "12"
+      },
+      {
+        "model": "GF-017",
+        "volume": "200 ml",
+        "honeyWeight": "250 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-017-13",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "13"
+      },
+      {
+        "model": "YGS-SPP1640",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1640-23",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "23"
+      },
+      {
+        "model": "GF-015",
+        "volume": "70 ml",
+        "honeyWeight": "100 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-015-57",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "57"
+      },
+      {
+        "model": "GF-016",
+        "volume": "130 ml",
+        "honeyWeight": "180 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-016-58",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "58"
+      },
+      {
+        "model": "G-06",
+        "volume": "330 ml",
+        "honeyWeight": "450 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-06-60",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "60"
+      },
+      {
+        "model": "YGS-SPP1654",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1654-88",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "88"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "The ribs change the gripping surface and available label area. Compare a physical sample with the labeling equipment and review the intended dispensing closure."
+  },
+  {
+    "slug": "compact-inverted-honey-bottles",
+    "title": "Compact Inverted Honey Bottles",
+    "model": "G-106 / G-104 / G-32 / G-31 / G-30 / YGS-SPP1120 / YGS-SPP1230 / G-33",
+    "material": "PET",
+    "image": "catalog-g-106-32",
+    "categories": [
+      "plastic",
+      "squeeze",
+      "inverted"
+    ],
+    "description": "Compact PET honey bottles designed for cap-down presentation and convenient dispensing. The series includes several body profiles, capacities and matched closure arrangements.",
+    "volume": "288 ml / 290 ml / 380 ml / 280 ml / 340 ml / 320 ml / 250 ml",
+    "honeyWeight": "400 g / 500 g / 480 g / Confirm by filling trial / 460 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "G-106",
+        "volume": "288 ml",
+        "honeyWeight": "400 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-106-32",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "32"
+      },
+      {
+        "model": "G-104",
+        "volume": "290 ml",
+        "honeyWeight": "400 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-104-36",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "36"
+      },
+      {
+        "model": "G-32",
+        "volume": "380 ml",
+        "honeyWeight": "500 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-32-39",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "39"
+      },
+      {
+        "model": "G-31",
+        "volume": "280 ml",
+        "honeyWeight": "400 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-31-40",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "40"
+      },
+      {
+        "model": "G-30",
+        "volume": "340 ml",
+        "honeyWeight": "480 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-30-56",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "56"
+      },
+      {
+        "model": "YGS-SPP1120",
+        "volume": "320 ml",
+        "honeyWeight": "Confirm by filling trial",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1120-100",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "100"
+      },
+      {
+        "model": "YGS-SPP1230",
+        "volume": "250 ml",
+        "honeyWeight": "Confirm by filling trial",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1230-101",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "101"
+      },
+      {
+        "model": "G-33",
+        "volume": "340 ml",
+        "honeyWeight": "460 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-g-33-127",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "127"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Compare shelf height, grip, label space and the selected closure. Request a model-specific sample to approve the tamper-evident arrangement."
+  },
+  {
+    "slug": "oval-inverted-honey-bottle",
+    "title": "360 ml Oval Inverted Honey Bottle",
+    "model": "G-12",
+    "material": "PET",
+    "image": "catalog-g-12-30",
+    "categories": [
+      "plastic",
+      "squeeze",
+      "inverted"
+    ],
+    "description": "Oval PET bottle for cap-down honey dispensing, with a 28-400 neck finish. The 360 ml capacity has an approximate 500 g reference honey fill.",
+    "volume": "360 ml",
+    "honeyWeight": "500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "G-12",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-g-12-30",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "30"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Evaluate label placement on both sides and confirm dispensing, resealing and standing stability with the selected cap."
+  },
+  {
+    "slug": "honey-jars-with-handles",
+    "title": "PET Honey Jars with Carry Handles",
+    "model": "AH-2 / A2 / A37 / A3 / A50 / A45 / A1",
+    "material": "PET",
+    "image": "catalog-ah-2-4",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "PET honey jars with carry-handle options and capacities from 500 to 2,200 ml. The range combines larger honey pack sizes with wide openings and model-specific cap assemblies.",
+    "volume": "500 ml / 2000 ml / 720 ml / 1580 ml / 800 ml / 1500 ml / 2200 ml",
+    "honeyWeight": "750 g / 2500 g / 1000 g / 2000 g / 1100 g / 3000 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "AH-2",
+        "volume": "500 ml",
+        "honeyWeight": "750 g",
+        "neck": "69-400",
+        "closure": "PP cap",
+        "image": "catalog-ah-2-4",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "4"
+      },
+      {
+        "model": "A2",
+        "volume": "2000 ml",
+        "honeyWeight": "2500 g",
+        "neck": "118-400",
+        "closure": "PP cap",
+        "image": "catalog-a2-10",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "10"
+      },
+      {
+        "model": "A37",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "85-400",
+        "closure": "PP cap",
+        "image": "catalog-a37-14",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "14"
+      },
+      {
+        "model": "A3",
+        "volume": "1580 ml",
+        "honeyWeight": "2000 g",
+        "neck": "118-400",
+        "closure": "PP cap",
+        "image": "catalog-a3-22",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "22"
+      },
+      {
+        "model": "A50",
+        "volume": "800 ml",
+        "honeyWeight": "1100 g",
+        "neck": "85-400",
+        "closure": "PP cap",
+        "image": "catalog-a50-29",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "29"
+      },
+      {
+        "model": "A45",
+        "volume": "1500 ml",
+        "honeyWeight": "2000 g",
+        "neck": "118-400",
+        "closure": "PP cap",
+        "image": "catalog-a45-41",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "41"
+      },
+      {
+        "model": "A1",
+        "volume": "2200 ml",
+        "honeyWeight": "3000 g",
+        "neck": "118-400",
+        "closure": "PP cap",
+        "image": "catalog-a1-52",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "52"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "The carry handle is part of the closure assembly. Check lifting, cap application, intended filled weight and carton clearance on the agreed sample."
+  },
+  {
+    "slug": "square-pet-honey-jars",
+    "title": "Square PET Honey Jar Series",
+    "model": "FD-85 / FD-100",
+    "material": "PET",
+    "image": "catalog-fd-85-11",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Square-style PET honey jars in 360 ml and 440 ml sizes with a 61-400 neck finish. Defined label faces support a coordinated range of spoonable honey packs.",
+    "volume": "360 ml / 440 ml",
+    "honeyWeight": "500 g / 610 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "FD-85",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "61-400",
+        "closure": "PP cap",
+        "image": "catalog-fd-85-11",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "11"
+      },
+      {
+        "model": "FD-100",
+        "volume": "440 ml",
+        "honeyWeight": "610 g",
+        "neck": "61-400",
+        "closure": "PP cap",
+        "image": "catalog-fd-100-87",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "87"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Check the usable flat panel and how the label wraps around the corners. Approve the actual fill level separately for each capacity."
+  },
+  {
+    "slug": "small-wide-mouth-honey-jars",
+    "title": "Small Wide-Mouth PET Honey Jars",
+    "model": "FD-95 / YGS-SPP1971 / YGS-SPP1967-Z / YGS-SPP2301-Z / A25 / LG-25 / FD-96",
+    "material": "PET",
+    "image": "catalog-fd-95-18",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Compact PET screw-cap jars with wide openings for smaller branded honey packs. PP and PE cap options vary by size and are listed in the specifications.",
+    "volume": "180 ml / 192 ml / 200 ml / 190 ml",
+    "honeyWeight": "250 g / 280 g / 260 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "FD-95",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "57-400",
+        "closure": "PP cap",
+        "image": "catalog-fd-95-18",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "18"
+      },
+      {
+        "model": "YGS-SPP1971",
+        "volume": "192 ml",
+        "honeyWeight": "250 g",
+        "neck": "57-400",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp1971-49",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "49"
+      },
+      {
+        "model": "YGS-SPP1967-Z",
+        "volume": "200 ml",
+        "honeyWeight": "280 g",
+        "neck": "57-400",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp1967-z-82",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "82"
+      },
+      {
+        "model": "YGS-SPP2301-Z",
+        "volume": "190 ml",
+        "honeyWeight": "260 g",
+        "neck": "57-400",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp2301-z-86",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "86"
+      },
+      {
+        "model": "A25",
+        "volume": "200 ml",
+        "honeyWeight": "250 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a25-108",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "108"
+      },
+      {
+        "model": "LG-25",
+        "volume": "200 ml",
+        "honeyWeight": "280 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-lg-25-115",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "115"
+      },
+      {
+        "model": "FD-96",
+        "volume": "200 ml",
+        "honeyWeight": "250 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-fd-96-121",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "121"
+      }
+    ],
+    "closure": "PP cap / PE cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Compare the mouth opening for filling and spoon access. Specify the liner or seal needed for the exact container and closure."
+  },
+  {
+    "slug": "pet-honey-bear-bottle-options",
+    "title": "PET Honey Bear Bottle Options",
+    "model": "YGS-SPP2051 / GF-021 / G-111 / YGS-SPP1651 / GF-020",
+    "material": "PET",
+    "image": "catalog-ygs-spp2051-15",
+    "categories": [
+      "plastic",
+      "bear"
+    ],
+    "description": "PET honey bear bottles in varied molded shapes and capacities, including a mini 60 ml format. Each model combines distinctive bear details with a front label panel and matching closure option.",
+    "volume": "250 ml / 360 ml / 210 ml / 60 ml / 180 ml",
+    "honeyWeight": "350 g / 500 g / 294 g / 84 g / 250 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP2051",
+        "volume": "250 ml",
+        "honeyWeight": "350 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp2051-15",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "15"
+      },
+      {
+        "model": "GF-021",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-021-35",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "35"
+      },
+      {
+        "model": "G-111",
+        "volume": "210 ml",
+        "honeyWeight": "294 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-111-42",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "42"
+      },
+      {
+        "model": "YGS-SPP1651",
+        "volume": "60 ml",
+        "honeyWeight": "84 g",
+        "neck": "24-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1651-44",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "44"
+      },
+      {
+        "model": "GF-020",
+        "volume": "180 ml",
+        "honeyWeight": "250 g",
+        "neck": "30-400",
+        "closure": "PP cap",
+        "image": "catalog-gf-020-63",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "63"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Bear profiles differ in face details, grip and label panel. Evaluate artwork on the selected bear rather than treating the designs as interchangeable."
+  },
+  {
+    "slug": "pointed-cap-honey-bottles",
+    "title": "Pointed-Cap PET Honey Bottles",
+    "model": "A26 / A27 / A51 / A52 / A44 / A70 / A33",
+    "material": "PET",
+    "image": "catalog-a26-17",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "PET honey bottles with pointed dispensing caps and a selection of round and shaped bodies. Different capacities and outlet configurations support controlled serving formats.",
+    "volume": "300 ml / 720 ml / 360 ml / 200 ml / 250 ml",
+    "honeyWeight": "400 g / 1000 g / 500 g / 300 g / 350 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A26",
+        "volume": "300 ml",
+        "honeyWeight": "400 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-a26-17",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "17"
+      },
+      {
+        "model": "A27",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "51-410",
+        "closure": "PP cap",
+        "image": "catalog-a27-69",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "69"
+      },
+      {
+        "model": "A51",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-a51-73",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "73"
+      },
+      {
+        "model": "A52",
+        "volume": "200 ml",
+        "honeyWeight": "300 g",
+        "neck": "33-400",
+        "closure": "PP cap",
+        "image": "catalog-a52-74",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "74"
+      },
+      {
+        "model": "A44",
+        "volume": "200 ml",
+        "honeyWeight": "300 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-a44-75",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "75"
+      },
+      {
+        "model": "A70",
+        "volume": "250 ml",
+        "honeyWeight": "350 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a70-78",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "78"
+      },
+      {
+        "model": "A33",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a33-119",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "119"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Review the outlet size and cap operation against the intended serving quantity. Catalog pictures show the style; the quote specifies the final cap."
+  },
+  {
+    "slug": "tall-pet-honey-bottles",
+    "title": "Tall PET Honey Bottles",
+    "model": "F-001 / YGS-SPP2215 / YGS-SPP2393 / F-003 / F-004 / YGS-SPP2279 / YGS-SPP1794 / GF-037",
+    "material": "PET",
+    "image": "catalog-f-001-19",
+    "categories": [
+      "plastic"
+    ],
+    "description": "Tall PET honey bottles with slender or cylindrical profiles for vertical shelf presentation. Model-specific heights, label areas and closures support different filling and branding requirements.",
+    "volume": "360 ml / 100 ml / 275 ml / 90 ml / 200 ml / 250 ml / 500 ml / 300 ml",
+    "honeyWeight": "500 g / 140 g / 385 g / 120 g / 280 g / 350 g / 700 g / 420 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "F-001",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-f-001-19",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "19"
+      },
+      {
+        "model": "YGS-SPP2215",
+        "volume": "100 ml",
+        "honeyWeight": "140 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp2215-31",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "31"
+      },
+      {
+        "model": "YGS-SPP2393",
+        "volume": "275 ml",
+        "honeyWeight": "385 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp2393-34",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "34"
+      },
+      {
+        "model": "F-003",
+        "volume": "90 ml",
+        "honeyWeight": "120 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-f-003-65",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "65"
+      },
+      {
+        "model": "F-004",
+        "volume": "200 ml",
+        "honeyWeight": "280 g",
+        "neck": "28-400",
+        "closure": "PP cap",
+        "image": "catalog-f-004-66",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "66"
+      },
+      {
+        "model": "YGS-SPP2279",
+        "volume": "250 ml",
+        "honeyWeight": "350 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp2279-67",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "67"
+      },
+      {
+        "model": "YGS-SPP1794",
+        "volume": "500 ml",
+        "honeyWeight": "700 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1794-68",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "68"
+      },
+      {
+        "model": "GF-037",
+        "volume": "300 ml",
+        "honeyWeight": "420 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-gf-037-129",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "129"
+      }
+    ],
+    "closure": "PP cap / PE cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Confirm the label panel length, filling nozzle clearance and the way the pack is stabilized during filling and labeling."
+  },
+  {
+    "slug": "flat-pet-honey-bottles",
+    "title": "Flat-Profile PET Honey Bottles",
+    "model": "YGS-SPP1808 / G-22 / G-101 / GZ-02 / GZ-05",
+    "material": "PET",
+    "image": "catalog-ygs-spp1808-20",
+    "categories": [
+      "plastic"
+    ],
+    "description": "Flat-profile PET honey bottles with broad front and back faces for separate labels. Multiple capacities and matched closures support a coordinated branded honey range.",
+    "volume": "500 ml / 290 ml / 280 ml / 150 ml / 370 ml",
+    "honeyWeight": "750 g / 380 g / 400 g / 210 g / 500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP1808",
+        "volume": "500 ml",
+        "honeyWeight": "750 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp1808-20",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "20"
+      },
+      {
+        "model": "G-22",
+        "volume": "290 ml",
+        "honeyWeight": "380 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-22-33",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "33"
+      },
+      {
+        "model": "G-101",
+        "volume": "280 ml",
+        "honeyWeight": "400 g",
+        "neck": "38-400",
+        "closure": "PP cap",
+        "image": "catalog-g-101-37",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "37"
+      },
+      {
+        "model": "GZ-02",
+        "volume": "150 ml",
+        "honeyWeight": "210 g",
+        "neck": "30-400",
+        "closure": "PP cap",
+        "image": "catalog-gz-02-61",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "61"
+      },
+      {
+        "model": "GZ-05",
+        "volume": "370 ml",
+        "honeyWeight": "500 g",
+        "neck": "30-400",
+        "closure": "PP cap",
+        "image": "catalog-gz-05-62",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "62"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Use the front panel for the primary label and check the back label against the curve of the body. The selected cap should be tested with the actual honey."
+  },
+  {
+    "slug": "ribbed-wide-mouth-pet-honey-jars",
+    "title": "Ribbed Wide-Mouth PET Honey Jars",
+    "model": "A9-1 / A47-1 / A9-2 / A8-2 / A9Z-2 / A14-2",
+    "material": "PET",
+    "image": "catalog-a9-1-26",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Wide-mouth PET honey jars with ribbed or paneled bodies for spoonable honey. The range combines accessible openings, defined label areas and matching closure options.",
+    "volume": "750 ml / 730 ml / 720 ml / 850 ml / 360 ml",
+    "honeyWeight": "1000 g / 1250 g / 500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A9-1",
+        "volume": "750 ml",
+        "honeyWeight": "1000 g",
+        "neck": "69-400",
+        "closure": "PP cap",
+        "image": "catalog-a9-1-26",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "26"
+      },
+      {
+        "model": "A47-1",
+        "volume": "730 ml",
+        "honeyWeight": "1000 g",
+        "neck": "69-400",
+        "closure": "PP cap",
+        "image": "catalog-a47-1-38",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "38"
+      },
+      {
+        "model": "A9-2",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a9-2-106",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "106"
+      },
+      {
+        "model": "A8-2",
+        "volume": "850 ml",
+        "honeyWeight": "1250 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a8-2-107",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "107"
+      },
+      {
+        "model": "A9Z-2",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a9z-2-109",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "109"
+      },
+      {
+        "model": "A14-2",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-a14-2-111",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "111"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Compare spoon access and label position. A matching cap, liner and seal must be specified for each jar even when the apparent mouth size is similar."
+  },
+  {
+    "slug": "honey-bear-bottle-175ml",
+    "title": "175 ml PET Honey Bear Bottle",
+    "model": "G-02",
+    "material": "PET",
+    "image": "catalog-g-02-28",
+    "categories": [
+      "plastic",
+      "bear"
+    ],
+    "description": "Compact 175 ml PET honey bear bottle with an aluminum cap option and an approximate 227 g reference honey fill. The molded bear body provides a distinctive compact pack format.",
+    "volume": "175 ml",
+    "honeyWeight": "227 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "G-02",
+        "volume": "175 ml",
+        "honeyWeight": "227 g",
+        "neck": "38-400",
+        "closure": "Aluminium cap",
+        "image": "catalog-g-02-28",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "28"
+      }
+    ],
+    "closure": "Aluminium cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "The aluminium closure route differs from the flip-top PP caps on other bear models. Confirm the selected closure with the supplier before ordering."
+  },
+  {
+    "slug": "mini-pet-honey-nozzle-bottles",
+    "title": "Mini PET Honey Nozzle Bottles",
+    "model": "A30 / YGS-HZP3024",
+    "material": "PET",
+    "image": "catalog-a30-71",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Mini PET dispensing bottles in 60 ml and 125 ml sizes for compact honey packs. Each size combines a small label area with a pointed nozzle closure for controlled serving.",
+    "volume": "125 ml / 60 ml",
+    "honeyWeight": "175 g / 80 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A30",
+        "volume": "125 ml",
+        "honeyWeight": "175 g",
+        "neck": "38-410",
+        "closure": "PP cap",
+        "image": "catalog-a30-71",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "71"
+      },
+      {
+        "model": "YGS-HZP3024",
+        "volume": "60 ml",
+        "honeyWeight": "80 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-hzp3024-102",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "102"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Small labels need enough space for legible artwork. Review the cap opening and the actual honey dose with an assembled sample."
+  },
+  {
+    "slug": "wide-mouth-pet-honey-jar-shapes",
+    "title": "Wide-Mouth PET Honey Jar Shapes",
+    "model": "AD-1 / AD-2 / AD-9",
+    "material": "PET",
+    "image": "catalog-ad-1-79",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Three wide-mouth PET jar profiles for spoonable honey, each with a distinct shoulder shape, label area and matching closure arrangement.",
+    "volume": "360 ml / 220 ml / 370 ml",
+    "honeyWeight": "500 g / 300 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "AD-1",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "63-400",
+        "closure": "PP cap",
+        "image": "catalog-ad-1-79",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "79"
+      },
+      {
+        "model": "AD-2",
+        "volume": "220 ml",
+        "honeyWeight": "300 g",
+        "neck": "57-400",
+        "closure": "PP cap",
+        "image": "catalog-ad-2-80",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "80"
+      },
+      {
+        "model": "AD-9",
+        "volume": "370 ml",
+        "honeyWeight": "500 g",
+        "neck": "63-400",
+        "closure": "PE cap",
+        "image": "catalog-ad-9-89",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "89"
+      }
+    ],
+    "closure": "PP cap / PE cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Compare the shoulder shape and usable label surface. Review the intended cap and sealing arrangement against each model rather than choosing by diameter alone."
+  },
+  {
+    "slug": "screw-cap-pet-honey-jars",
+    "title": "Screw-Cap PET Honey Jar Series",
+    "model": "YGS-SPP1968 / YGS-SPP1969 / YGS-SPP1969-Z / FD-5 / FD-32 / FD-97 / FD-98",
+    "material": "PET",
+    "image": "catalog-ygs-spp1968-83",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "PET honey jars with PE screw-cap options, ranging from compact formats to larger packs. Each model has its own capacity, neck finish and packing specification.",
+    "volume": "363 ml / 722 ml / 720 ml / 348 ml / 360 ml / 730 ml",
+    "honeyWeight": "500 g / 1000 g / 480 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP1968",
+        "volume": "363 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp1968-83",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "83"
+      },
+      {
+        "model": "YGS-SPP1969",
+        "volume": "722 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp1969-84",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "84"
+      },
+      {
+        "model": "YGS-SPP1969-Z",
+        "volume": "720 ml",
+        "honeyWeight": "1000 g",
+        "neck": "82-400",
+        "closure": "PE cap",
+        "image": "catalog-ygs-spp1969-z-85",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "85"
+      },
+      {
+        "model": "FD-5",
+        "volume": "348 ml",
+        "honeyWeight": "480 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-fd-5-113",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "113"
+      },
+      {
+        "model": "FD-32",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-fd-32-120",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "120"
+      },
+      {
+        "model": "FD-97",
+        "volume": "730 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-fd-97-122",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "122"
+      },
+      {
+        "model": "FD-98",
+        "volume": "730 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PE cap",
+        "image": "catalog-fd-98-123",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "123"
+      }
+    ],
+    "closure": "PE cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Confirm the thread specification where the catalog does not list a complete neck finish. Final seal, liner and cap details should be written into the order."
+  },
+  {
+    "slug": "aluminium-cap-pet-honey-jars",
+    "title": "PET Honey Jars with Aluminum Caps",
+    "model": "JS-6 / LG-31 / LG-97Z / LG-98Z",
+    "material": "PET",
+    "image": "catalog-js-6-114",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "PET honey jars in 360 ml and 730 ml capacities with aluminum cap options. Coordinate the metal lid finish with your label for a consistent branded presentation.",
+    "volume": "360 ml / 730 ml",
+    "honeyWeight": "500 g / 1000 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "JS-6",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Aluminium cap",
+        "image": "catalog-js-6-114",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "114"
+      },
+      {
+        "model": "LG-31",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Aluminium cap",
+        "image": "catalog-lg-31-116",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "116"
+      },
+      {
+        "model": "LG-97Z",
+        "volume": "730 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Aluminium cap",
+        "image": "catalog-lg-97z-117",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "117"
+      },
+      {
+        "model": "LG-98Z",
+        "volume": "730 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Aluminium cap",
+        "image": "catalog-lg-98z-118",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "118"
+      }
+    ],
+    "closure": "Aluminium cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Check cap finish, liner compatibility and the required sealing method on the final jar. A metallic cap is not a guarantee of a particular seal system."
+  },
+  {
+    "slug": "round-pet-honey-jars",
+    "title": "Round PET Honey Jar Formats",
+    "model": "YGS-SPP0012 / YGS-SPP0013 / YGS-SPP0010 / GJ-009",
+    "material": "PET",
+    "image": "catalog-ygs-spp0012-103",
+    "categories": [
+      "plastic",
+      "plastic-jars"
+    ],
+    "description": "Round PET honey jars with PP cap options and capacities from 360 to 725 ml. The series includes different body proportions, shoulder profiles and cap dimensions.",
+    "volume": "374 ml / 725 ml / 360 ml / 700 ml",
+    "honeyWeight": "525 g / 1000 g / 500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP0012",
+        "volume": "374 ml",
+        "honeyWeight": "525 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp0012-103",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "103"
+      },
+      {
+        "model": "YGS-SPP0013",
+        "volume": "725 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp0013-104",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "104"
+      },
+      {
+        "model": "YGS-SPP0010",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-ygs-spp0010-105",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "105"
+      },
+      {
+        "model": "GJ-009",
+        "volume": "700 ml",
+        "honeyWeight": "1000 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-gj-009-112",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "112"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Compare shoulder clearance, cap height and the label seam. Request the complete neck drawing and confirm the closure included in the quote."
+  },
+  {
+    "slug": "mini-glass-honey-jar-shapes",
+    "title": "Mini Glass Honey Jar Shapes",
+    "model": "YGS-SPP0586 / YGS-SPP0587 / YGS-SPP0588",
+    "material": "Glass",
+    "image": "catalog-ygs-spp0586-97",
+    "categories": [
+      "glass",
+      "mini"
+    ],
+    "description": "Three mini glass jar shapes in 80 ml or 100 ml capacities with metal lid options. The compact profiles suit honey tasting sets, gifts and branded presentation packs.",
+    "volume": "80 ml / 100 ml",
+    "honeyWeight": "110 g / 140 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "YGS-SPP0586",
+        "volume": "80 ml",
+        "honeyWeight": "110 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0586-97",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "97"
+      },
+      {
+        "model": "YGS-SPP0587",
+        "volume": "100 ml",
+        "honeyWeight": "140 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0587-98",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "98"
+      },
+      {
+        "model": "YGS-SPP0588",
+        "volume": "100 ml",
+        "honeyWeight": "140 g",
+        "neck": "Confirm with selected sample",
+        "closure": "Tin cap",
+        "image": "catalog-ygs-spp0588-99",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "99"
+      }
+    ],
+    "closure": "Tin cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Approve the lid and jar as one assembly. Compare the finished pack against your gift-box insert and protective packing."
+  },
+  {
+    "slug": "honey-bottle-360ml",
+    "title": "360 ml PET Honey Bottle",
+    "model": "A54",
+    "material": "PET",
+    "image": "honey-bottle-360ml",
+    "categories": [
+      "plastic"
+    ],
+    "description": "A 360 ml PET honey bottle with a PP cap option and an approximate 500 g reference honey fill. The final body shape, closure and dimensions are supplied through the approved product drawing and sample.",
+    "volume": "360 ml",
+    "honeyWeight": "500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "A54",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "honey-bottle-360ml",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "72"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Confirm the bottle shape, cap style, color and dimensions with the approved drawing and physical sample before ordering."
+  },
+  {
+    "slug": "oval-honey-bottles",
+    "title": "Oval PET Honey Bottles",
+    "model": "G-20 / G-21",
+    "material": "PET",
+    "image": "catalog-g-20-125",
+    "categories": [
+      "plastic",
+      "squeeze"
+    ],
+    "description": "Oval PET honey bottles in 350 ml and 360 ml sizes, with front and back label areas. The two formats provide similar fill volumes with distinct body proportions and matching closure options.",
+    "volume": "350 ml / 360 ml",
+    "honeyWeight": "480 g / 500 g",
+    "neck": "See model specifications",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "G-20",
+        "volume": "350 ml",
+        "honeyWeight": "480 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-g-20-125",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "125"
+      },
+      {
+        "model": "G-21",
+        "volume": "360 ml",
+        "honeyWeight": "500 g",
+        "neck": "Confirm with selected sample",
+        "closure": "PP cap",
+        "image": "catalog-g-21-126",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "126"
+      }
+    ],
+    "closure": "PP cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Match the dispensing arrangement to how your honey will be served. Ask for the complete neck and closure specification before confirming compatibility."
+  },
+  {
+    "slug": "flip-top-honey-bottle-caps",
+    "title": "PP Flip-Top Caps for Honey Bottles",
+    "model": "",
+    "material": "PP",
+    "image": "/assets/honey-gallery/flip-top-honey-bottle-caps/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "PP flip-top caps for upright PET honey squeeze bottles, with a hinged lid and controlled dispensing outlet. The range includes 28-400 and 38-400 compatible formats, with color options prepared for the selected bottle.",
+    "volume": "28-400 / 38-400",
+    "honeyWeight": "Open dispensing outlet",
+    "neck": "28-400 / 38-400",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "28-400 / 38-400",
+        "honeyWeight": "Open dispensing outlet",
+        "neck": "28-400 / 38-400",
+        "closure": "PP flip-top cap",
+        "image": "/assets/honey-gallery/flip-top-honey-bottle-caps/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-1"
+      }
+    ],
+    "closure": "PP flip-top cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available yellow and custom colors. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  },
+  {
+    "slug": "pointed-nozzle-honey-caps",
+    "title": "Pointed Nozzle Caps for Honey Bottles",
+    "model": "",
+    "material": "PP",
+    "image": "/assets/honey-gallery/pointed-nozzle-honey-caps/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "PP pointed nozzle caps for honey bottles, with a narrow tapered outlet for controlled, directional dispensing. Thread, outlet and color configurations are prepared to suit the selected PET bottle.",
+    "volume": "Match selected bottle",
+    "honeyWeight": "Tapered dispensing outlet",
+    "neck": "Match selected bottle",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "Match selected bottle",
+        "honeyWeight": "Tapered dispensing outlet",
+        "neck": "Match selected bottle",
+        "closure": "PP pointed nozzle cap",
+        "image": "/assets/honey-gallery/pointed-nozzle-honey-caps/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-2"
+      }
+    ],
+    "closure": "PP pointed nozzle cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available yellow and custom colors. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  },
+  {
+    "slug": "inverted-honey-bottle-valve-caps",
+    "title": "Valve Caps for Inverted Honey Bottles",
+    "model": "",
+    "material": "PP + silicone",
+    "image": "/assets/honey-gallery/inverted-honey-bottle-valve-caps/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "Wide-base PP caps for inverted honey bottles, designed for stable cap-down presentation and controlled dispensing. A silicone valve option supports cleaner flow and reclosure for compatible bottle assemblies.",
+    "volume": "Match inverted bottle",
+    "honeyWeight": "Silicone valve option",
+    "neck": "Match inverted bottle",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "Match inverted bottle",
+        "honeyWeight": "Silicone valve option",
+        "neck": "Match inverted bottle",
+        "closure": "PP cap with valve option",
+        "image": "/assets/honey-gallery/inverted-honey-bottle-valve-caps/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-3"
+      }
+    ],
+    "closure": "PP cap with valve option",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available yellow and custom colors. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  },
+  {
+    "slug": "plastic-screw-caps-for-honey-jars",
+    "title": "PP Screw Caps for PET Honey Jars",
+    "model": "",
+    "material": "PP",
+    "image": "/assets/honey-gallery/plastic-screw-caps-for-honey-jars/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "Ribbed PP screw caps for wide-mouth PET honey jars, providing a secure grip for opening and reclosure. Liner and seal options are available for compatible threaded jar finishes.",
+    "volume": "Match PET jar finish",
+    "honeyWeight": "Liner or seal on request",
+    "neck": "Match PET jar finish",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "Match PET jar finish",
+        "honeyWeight": "Liner or seal on request",
+        "neck": "Match PET jar finish",
+        "closure": "PP screw cap",
+        "image": "/assets/honey-gallery/plastic-screw-caps-for-honey-jars/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-4"
+      }
+    ],
+    "closure": "PP screw cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available black, white and custom colors. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  },
+  {
+    "slug": "metal-twist-off-honey-jar-lids",
+    "title": "Metal Twist-Off Lids for Glass Honey Jars",
+    "model": "",
+    "material": "Tinplate",
+    "image": "/assets/honey-gallery/metal-twist-off-honey-jar-lids/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "Tinplate twist-off lids for compatible glass honey jars, available in selected diameters and finishes. The lug closure uses a food-contact sealing compound to support the specified jar assembly and filling process.",
+    "volume": "Match glass jar finish",
+    "honeyWeight": "Food-contact compound / liner",
+    "neck": "Match glass jar finish",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "Match glass jar finish",
+        "honeyWeight": "Food-contact compound / liner",
+        "neck": "Match glass jar finish",
+        "closure": "Metal twist-off lid",
+        "image": "/assets/honey-gallery/metal-twist-off-honey-jar-lids/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-5"
+      }
+    ],
+    "closure": "Metal twist-off lid",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available gold, black and selected finishes. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  },
+  {
+    "slug": "aluminum-screw-caps-for-honey-jars",
+    "title": "Aluminum Screw Caps for PET Honey Jars",
+    "model": "",
+    "material": "Aluminum",
+    "image": "/assets/honey-gallery/aluminum-screw-caps-for-honey-jars/full.webp",
+    "categories": [
+      "closures"
+    ],
+    "description": "Aluminum screw caps for threaded PET honey jars, combining a metallic finish with a lightweight closure. Silver, gold and selected color finishes can be paired with liner options for compatible jars.",
+    "volume": "Match threaded jar finish",
+    "honeyWeight": "Liner on request",
+    "neck": "Match threaded jar finish",
+    "gallery": [],
+    "variants": [
+      {
+        "model": "",
+        "volume": "Match threaded jar finish",
+        "honeyWeight": "Liner on request",
+        "neck": "Match threaded jar finish",
+        "closure": "Aluminum screw cap",
+        "image": "/assets/honey-gallery/aluminum-screw-caps-for-honey-jars/full.webp",
+        "imageKind": "Product image; confirm the selected product with a physical sample",
+        "specId": "closure-6"
+      }
+    ],
+    "closure": "Aluminum screw cap",
+    "imageKind": "Product image; confirm the selected product with a physical sample",
+    "specNotes": "Available silver, gold and selected finishes. Final dimensions, fit, liner or valve, color and packing are confirmed for the selected container and quotation."
+  }
+]

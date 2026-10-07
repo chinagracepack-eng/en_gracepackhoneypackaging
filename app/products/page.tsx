@@ -1,0 +1,5 @@
+import {metadata as meta} from '../seo';
+import {Breadcrumbs,Intro,CTA,CategoryLinks} from '../components/Common';
+import {ProductFilter} from '../components/ProductFilter';
+export const metadata=meta('Wholesale Honey Bottles & Jars','Browse PET honey bear bottles, squeeze bottles, wide-mouth jars and glass honey jars. Compare catalog sizes and request a bulk packaging quote.','/products/');
+export default function Products(){return <><div className="wrap"><Breadcrumbs items={[{name:'Products',url:'/products/'}]}/></div><Intro title="Wholesale Honey Bottles & Jars" description="Browse PET honey bottles, plastic jars and glass jars for bulk orders. Compare capacities, closures and dimensions, then request samples and pricing for your selected products."/><section className="section"><div className="wrap"><ProductFilter/><p className="note" style={{marginTop:25}}>All containers are supplied empty. Honey weights are catalog reference fills and must be checked with your product. MOQ, closure specification, availability and lead time are confirmed with your quote.</p><CategoryLinks/></div></section><CTA/></>;}

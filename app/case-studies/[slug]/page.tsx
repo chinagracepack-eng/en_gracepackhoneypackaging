@@ -1,0 +1,9 @@
+import Link from 'next/link';
+import {notFound} from 'next/navigation';
+import cases from '../../../content/honey-case-studies.json';
+import {metadata as meta} from '../../seo';
+import {Breadcrumbs,Photo,CTA} from '../../components/Common';
+export const dynamicParams=false;
+export function generateStaticParams(){return cases.map(c=>({slug:c.slug}))}
+export function generateMetadata({params}:{params:{slug:string}}){const c=cases.find(c=>c.slug===params.slug);return c?meta(c.title,c.summary,`/case-studies/${c.slug}/`,c.image):{}}
+export default function Page({params}:{params:{slug:string}}){const c=cases.find(c=>c.slug===params.slug);if(!c)notFound();return <><div className="wrap"><Breadcrumbs items={[{name:'Case studies',url:'/case-studies/'},{name:c.title,url:`/case-studies/${c.slug}/`}]}/></div><section className="study-hero"><div className="wrap split"><div><p className="section-label">{c.kind}</p><h1>{c.title}</h1><p className="lead">{c.summary}</p><p className="case-status">{c.status}</p></div><figure><Photo name={c.image} alt={c.imageCaption} priority/><figcaption>{c.imageCaption}</figcaption></figure></div></section><section className="section soft"><div className="wrap"><div className="study-facts">{c.facts.map(([k,v])=><div key={k}><span>{k}</span><strong>{v}</strong></div>)}</div></div></section><section className="section"><div className="wrap study-layout"><aside><p className="section-label">IN THIS STUDY</p>{c.sections.map(([title],i)=><a href={`#study-${i}`} key={title}>{title}</a>)}</aside><div><div className="study-chapters">{c.sections.map(([title,body],i)=><section className="study-chapter" id={`study-${i}`} key={title}><p className="meta">0{i+1}</p><h2>{title}</h2><p>{body}</p></section>)}</div><div className="study-scope"><h3>Related Products & Order Resources</h3>{c.links.map(([name,url])=><Link className="text-link" key={url} href={url}>{name} ↗</Link>)}</div></div></div></section><CTA/></>}

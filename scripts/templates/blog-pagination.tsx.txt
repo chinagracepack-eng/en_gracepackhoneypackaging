@@ -1,0 +1,8 @@
+import {notFound} from 'next/navigation';
+import {BlogListing} from '../../../../components/Blog';
+import {blogPages,listingUrl} from '../../../../blog-data';
+import {metadata as meta} from '../../../../seo';
+export const dynamicParams=false;
+export const generateStaticParams=()=>blogPages().filter(p=>!p.category).map(p=>({page:String(p.page)}));
+export function generateMetadata({params}:{params:{page:string}}){return meta(`Honey Packaging Blog — Page ${params.page}`,'Honey packaging articles on containers, closures and supply.',listingUrl(undefined,Number(params.page)));}
+export default function Page({params}:{params:{page:string}}){if(!blogPages().some(p=>!p.category&&String(p.page)===params.page))notFound();return <BlogListing page={Number(params.page)}/>;}

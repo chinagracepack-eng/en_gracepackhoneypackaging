@@ -11,7 +11,7 @@ import {siteUrl} from '../../../data';
 
 export const dynamicParams=false;
 export const generateStaticParams=()=>posts.map(p=>({slug:p.slug}));
-export function generateMetadata({params}:{params:{slug:string}}){const p=posts.find(p=>p.slug===params.slug);if(!p)return {};const searchTitle=p.slug==='how-to-choose-honey-packaging-manufacturer-china'?'Choose a Honey Packaging Manufacturer in China':p.title;const m=meta(searchTitle,p.description,postUrl(p.slug),p.image);return {...m,openGraph:{...m.openGraph,title:p.title,type:'article',publishedTime:p.date,modifiedTime:p.date},twitter:{...m.twitter,title:p.title}};}
+export function generateMetadata({params}:{params:{slug:string}}){const p=posts.find(p=>p.slug===params.slug);if(!p)return {};const searchTitle=p.seoTitle||(p.slug==='how-to-choose-honey-packaging-manufacturer-china'?'Choose a Honey Packaging Manufacturer in China':p.title);const m=meta(searchTitle,p.description,postUrl(p.slug),p.image);return {...m,keywords:p.keywords,openGraph:{...m.openGraph,title:p.title,type:'article',publishedTime:p.date,modifiedTime:p.date},twitter:{...m.twitter,title:p.title}};}
 const formatDate=(date:string)=>new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(`${date}T00:00:00Z`));
 
 function RichText({text}:{text:string}){
@@ -55,8 +55,9 @@ export default function Page({params}:{params:{slug:string}}){
         {s.bullets&&<ul>{s.bullets.map((item,j)=><li key={j}><RichText text={item}/></li>)}</ul>}
         {s.subsections?.map(sub=><div className="blog-subsection" key={sub.title}><h3>{sub.title}</h3>{sub.paragraphs?.map((paragraph,j)=><p key={j}><RichText text={paragraph}/></p>)}{sub.bullets&&<ul>{sub.bullets.map((item,j)=><li key={j}><RichText text={item}/></li>)}</ul>}</div>)}
       </section>)}
+      {p.faq&&<section className="blog-faq" id="frequently-asked-questions"><h2>PET vs. HDPE Honey Packaging FAQs</h2><div className="faq-list">{p.faq.map(item=><details key={item.question}><summary>{item.question}</summary><p><RichText text={item.answer}/></p></details>)}</div></section>}
       <div className="blog-inquiry"><Inquiry id="blog-inquiry" source={`Blog article: ${p.title}`} lazy/></div>
     </div>
     {relatedPosts.length>0&&<div className="blog-related"><h2>Related Articles</h2><div className="blog-grid">{relatedPosts.map(x=><BlogCard post={x} key={x.slug}/>)}</div></div>}
-  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:siteUrl+p.image,datePublished:p.date,dateModified:p.date,author:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:siteUrl+postUrl(p.slug)}}/></section>;
+  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:siteUrl+p.image,datePublished:p.date,dateModified:p.date,keywords:p.keywords?.join(', '),author:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:siteUrl+postUrl(p.slug)}}/>{p.faq&&<JsonLd data={{'@context':'https://schema.org','@type':'FAQPage',mainEntity:p.faq.map(item=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')}}))}}/>}</section>;
 }

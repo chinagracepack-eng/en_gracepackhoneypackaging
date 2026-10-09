@@ -6,6 +6,7 @@ export type Product=(typeof products)[number];
 export const siteUrl='https://gracepackhoneypackaging.com';
 export const email='info@gracepack.com';
 export const phone='+86 137 7711 8991';
+export const factoryAddress='No.435, Beiyuan Road, Green Industrial Park, Chongshou Town, Cixi County, Ningbo City, Zhejiang Province,China.';
 export const imageUrl=(name:string,width=960)=>name.startsWith('/')?name:`/assets/honey/${name}-${name==='honey-bottle-360ml'&&width===960?850:width}.webp`;
 export const infoPages=['about','factory','quality','custom-honey-packaging','contact','faq','privacy-policy','cookie-policy'];
 export {posts as guides} from './blog-data';

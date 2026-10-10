@@ -2,16 +2,16 @@ import Link from 'next/link';
 import type {ReactNode} from 'react';
 import {notFound} from 'next/navigation';
 import {posts,postUrl,blogUrl,categoryUrl,blogCategories} from '../../../blog-data';
-import {BlogSidebar,BlogCard} from '../../../components/Blog';
+import {BlogSidebar} from '../../../components/Blog';
 import BlogShare from '../../../components/BlogShare';
 import Inquiry from '../../../components/Inquiry';
-import {Breadcrumbs,Photo} from '../../../components/Common';
+import {Breadcrumbs,Photo,ProductCard} from '../../../components/Common';
 import {metadata as meta,JsonLd} from '../../../seo';
-import {siteUrl} from '../../../data';
+import {products,siteUrl,type Product} from '../../../data';
 
 export const dynamicParams=false;
 export const generateStaticParams=()=>posts.map(p=>({slug:p.slug}));
-export function generateMetadata({params}:{params:{slug:string}}){const p=posts.find(p=>p.slug===params.slug);if(!p)return {};const searchTitle=p.seoTitle||(p.slug==='how-to-choose-honey-packaging-manufacturer-china'?'Choose a Honey Packaging Manufacturer in China':p.title);const m=meta(searchTitle,p.description,postUrl(p.slug),p.image);return {...m,keywords:p.keywords,openGraph:{...m.openGraph,title:p.title,type:'article',publishedTime:p.date,modifiedTime:p.date},twitter:{...m.twitter,title:p.title}};}
+export function generateMetadata({params}:{params:{slug:string}}){const p=posts.find(p=>p.slug===params.slug);if(!p)return {};const searchTitle=p.seoTitle||p.title;const m=meta(searchTitle,p.description,postUrl(p.slug),p.image);return {...m,keywords:p.keywords,robots:{index:true,follow:true,googleBot:{index:true,follow:true,'max-image-preview':'large','max-snippet':-1,'max-video-preview':-1}},openGraph:{...m.openGraph,title:p.title,type:'article',publishedTime:p.date,modifiedTime:p.updated||p.date},twitter:{...m.twitter,title:searchTitle}};}
 const formatDate=(date:string)=>new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(`${date}T00:00:00Z`));
 
 function RichText({text}:{text:string}){
@@ -33,12 +33,13 @@ export default function Page({params}:{params:{slug:string}}){
   const p=posts.find(p=>p.slug===params.slug);
   if(!p)notFound();
   const displayDate=formatDate(p.date);
-  const relatedPosts=posts.filter(x=>x.slug!==p.slug);
+  const updatedDate=formatDate(p.updated||p.date);
+  const relatedProducts=(p.relatedProducts||[]).map(slug=>products.find(product=>product.slug===slug)).filter((product):product is Product=>Boolean(product)).slice(0,3);
   return <section className="blog-surface"><div className="blog-wrap blog-layout blog-detail"><article>
     <Breadcrumbs items={[{name:'Blog',url:blogUrl},{name:blogCategories.find(c=>c.slug===p.categories[0])!.title,url:categoryUrl(p.categories[0])},{name:p.title,url:postUrl(p.slug)}]}/>
     <p className="section-label">{blogCategories.find(c=>c.slug===p.categories[0])!.title}</p>
     <h1>{p.title}</h1><p className="blog-intro">{p.description}</p>
-    <div className="blog-date"><time dateTime={p.date}>Published {displayDate}</time><span>Updated {displayDate}</span><span>◷ {p.minutes} min read</span></div>
+    <div className="blog-date"><time dateTime={p.date}>Published {displayDate}</time><span>Updated <time dateTime={p.updated||p.date}>{updatedDate}</time></span><span>◷ {p.minutes} min read</span></div>
     <p className="blog-author">By Gracepack</p>
     <div className="blog-tags">{p.categories.map(s=><Link href={categoryUrl(s)} key={s}>{blogCategories.find(c=>c.slug===s)!.title}</Link>)}<Link href="/custom-honey-packaging/">Custom Packaging</Link><Link href="/quality/">Quality Documents</Link></div>
     <BlogShare title={p.title} url={siteUrl+postUrl(p.slug)}/>
@@ -55,9 +56,9 @@ export default function Page({params}:{params:{slug:string}}){
         {s.bullets&&<ul>{s.bullets.map((item,j)=><li key={j}><RichText text={item}/></li>)}</ul>}
         {s.subsections?.map(sub=><div className="blog-subsection" key={sub.title}><h3>{sub.title}</h3>{sub.paragraphs?.map((paragraph,j)=><p key={j}><RichText text={paragraph}/></p>)}{sub.bullets&&<ul>{sub.bullets.map((item,j)=><li key={j}><RichText text={item}/></li>)}</ul>}</div>)}
       </section>)}
-      {p.faq&&<section className="blog-faq" id="frequently-asked-questions"><h2>PET vs. HDPE Honey Packaging FAQs</h2><div className="faq-list">{p.faq.map(item=><details key={item.question}><summary>{item.question}</summary><p><RichText text={item.answer}/></p></details>)}</div></section>}
+      {p.faq&&<section className="blog-faq" id="frequently-asked-questions"><h2>{p.faqTitle||'Honey Packaging FAQs'}</h2><div className="faq-list">{p.faq.map(item=><details key={item.question}><summary>{item.question}</summary><p><RichText text={item.answer}/></p></details>)}</div></section>}
       <div className="blog-inquiry"><Inquiry id="blog-inquiry" source={`Blog article: ${p.title}`} lazy/></div>
     </div>
-    {relatedPosts.length>0&&<div className="blog-related"><h2>Related Articles</h2><div className="blog-grid">{relatedPosts.map(x=><BlogCard post={x} key={x.slug}/>)}</div></div>}
-  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:siteUrl+p.image,datePublished:p.date,dateModified:p.date,keywords:p.keywords?.join(', '),author:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:siteUrl+postUrl(p.slug)}}/>{p.faq&&<JsonLd data={{'@context':'https://schema.org','@type':'FAQPage',mainEntity:p.faq.map(item=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')}}))}}/>}</section>;
+    {relatedProducts.length>0&&<div className="blog-related"><h2>Related Products</h2><div className="product-grid">{relatedProducts.map(product=><ProductCard p={product} key={product.slug}/>)}</div></div>}
+  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:{'@type':'ImageObject',url:siteUrl+p.image},datePublished:p.date,dateModified:p.updated||p.date,inLanguage:'en-US',articleSection:p.categories.map(slug=>blogCategories.find(c=>c.slug===slug)?.title).filter(Boolean),keywords:p.keywords?.join(', '),author:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:{'@type':'WebPage','@id':siteUrl+postUrl(p.slug)}}}/>{p.faq&&<JsonLd data={{'@context':'https://schema.org','@type':'FAQPage',mainEntity:p.faq.map(item=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')}}))}}/>}</section>;
 }

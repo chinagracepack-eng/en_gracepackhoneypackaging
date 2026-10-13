@@ -1,5 +1,338 @@
 [
   {
+    "slug": "honey-weight-vs-fluid-ounce-bottle-sizing",
+    "title": "Honey Weight vs. Fluid Ounce Sizing: How to Correctly Size Plastic Honey Bottles",
+    "seoTitle": "Honey Weight vs Fluid Ounces: Bottle Sizing",
+    "description": "Convert honey net weight to bottle volume using specific gravity. Compare 8–32 oz and 250 g–1 kg sizes, then allow for headspace and warm filling.",
+    "keywords": [
+      "honey weight vs fluid ounce bottles",
+      "16 oz plastic honey bottle size",
+      "500g honey squeeze bottle dimensions",
+      "honey bottle capacity calculator",
+      "honey specific gravity",
+      "plastic honey bottle sizing"
+    ],
+    "categories": [
+      "packaging-selection",
+      "filling-production"
+    ],
+    "image": "/assets/blog/honey-weight-fluid-ounce-bottle-sizing.webp",
+    "imageAlt": "Clear PET honey bottles beside a laboratory scale and graduated cylinder for net-weight sizing",
+    "imageCaption": "Bottle selection starts with honey net weight, density and the intended fill line—not the fluid-ounce name alone.",
+    "related": [
+      "plastic",
+      "squeeze",
+      "closures"
+    ],
+    "relatedProducts": [
+      "honey-bottle-360ml",
+      "ribbed-pet-honey-bottles",
+      "tall-pet-honey-bottles"
+    ],
+    "intro": "A “16 oz honey bottle” can describe two very different packages. Sixteen fluid ounces is a volume; 16 ounces net weight is a mass. Because honey is substantially denser than water, a container that holds 16 US fluid ounces of water can carry roughly 23.7 ounces of honey by weight at a density of 1.42 g/mL—before any allowance for headspace. For packaging engineers and buyers, the safer route is to begin with the declared net weight, convert it to product volume using the density of the actual honey, and then validate the fill in the selected bottle.",
+    "directAnswer": "At an assumed honey density of 1.42 g/mL, divide the target net weight in grams by 1.42 to estimate the product volume in millilitres. A 16 oz net-weight fill (453.6 g) needs about 319 mL of honey, while 500 g needs about 352 mL. Those figures are product volumes, not final bottle capacities: the selected container must also provide suitable headspace and must be confirmed at the real filling temperature.",
+    "sections": [
+      {
+        "title": "Fluid Ounces and Net Weight Ounces Measure Different Things",
+        "paragraphs": [
+          "Fluid ounces describe volume. Net weight ounces describe mass. The two units happen to give similar numbers for water, which is why the mistake is common, but they diverge as soon as a denser product is filled. Honey sold in the United States is normally declared by weight, and the [FDA Food Labeling Guide](https://www.fda.gov/media/81606/download) explains that viscous foods are generally expressed by weight and that the metric declaration accompanies the US customary declaration.",
+          "A bottle supplier may use millilitres or fluid ounces to describe container capacity, while the brand owner plans a label in ounces or grams of honey. Neither description is wrong; they answer different questions. The buyer has to connect them with measured density and a defined fill line.",
+          "For international projects, specify which fluid ounce you mean. One US fluid ounce is 29.5735 mL. One Imperial fluid ounce is 28.4131 mL. A table copied from a US catalogue should not be applied unchanged to an Imperial-fluid-ounce brief."
+        ],
+        "table": {
+          "headers": [
+            "Term",
+            "What it measures",
+            "Packaging question it answers"
+          ],
+          "rows": [
+            [
+              "Net wt oz or g",
+              "Mass of honey",
+              "How much product is declared and sold?"
+            ],
+            [
+              "US fl oz or mL",
+              "Volume occupied",
+              "How much space does the honey use?"
+            ],
+            [
+              "Catalog capacity",
+              "Supplier reference capacity",
+              "Which bottle family should be shortlisted?"
+            ],
+            [
+              "Working fill volume",
+              "Product volume at the intended fill line",
+              "Will the declared weight fit with usable headspace?"
+            ],
+            [
+              "Overflow or brimful capacity",
+              "Volume filled to the top of the finish",
+              "What is the container’s maximum internal volume under the stated method?"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "The 1.42 Specific-Gravity Rule: Useful for Screening, Not Final Approval",
+        "paragraphs": [
+          "Specific gravity compares a material’s density with the density of water at a stated reference condition. For early honey-package sizing, 1.42 g/mL is a practical working assumption. It produces the familiar trade shortcut that one US fluid ounce of honey weighs about 1.48 ounces, often rounded to 1.5.",
+          "The exact density is not fixed. Moisture content, botanical source, temperature and entrained air all influence the result. Published food-engineering research has measured how [honey density changes with temperature and composition](https://www.sciencedirect.com/science/article/pii/S0260877413002641). That is why the shortcut is appropriate for a shortlist but not for setting a legal fill target or purchasing tooling."
+        ],
+        "subsections": [
+          {
+            "title": "Use the forward formula when bottle volume is known",
+            "paragraphs": [
+              "Estimated honey net weight (g) = fill volume (mL) × honey density (g/mL).",
+              "Example: 360 mL × 1.42 g/mL = 511 g. This is a mathematical estimate at the assumed density. It does not mean every bottle catalogued as 360 mL should be filled with 511 g, because the catalogue figure may not be the intended working fill and the pack still needs headspace."
+            ]
+          },
+          {
+            "title": "Use the reverse formula when declared net weight is known",
+            "paragraphs": [
+              "Required product volume (mL) = target net weight (g) ÷ honey density (g/mL).",
+              "Example: 500 g ÷ 1.42 g/mL = 352 mL of honey. The next step is to select a bottle whose tested working fill accommodates that product volume at an acceptable visual fill height."
+            ]
+          },
+          {
+            "title": "For US fluid-ounce estimates",
+            "paragraphs": [
+              "Estimated net weight (oz) = US fluid ounces × density (g/mL) × 29.5735 ÷ 28.3495. At 1.42 g/mL, the multiplier is 1.481. The convenient ×1.5 rule is therefore slightly conservative and should remain an estimate."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "US Net-Weight Sizing Table: 8 oz Through 32 oz",
+        "paragraphs": [
+          "The table starts with the net weight printed on the label and calculates the honey volume at 1.42 g/mL. It does not prescribe a bottle’s nominal capacity. Use it to identify a realistic volume range, then evaluate bottle geometry, fill height and line conditions."
+        ],
+        "table": {
+          "headers": [
+            "Target honey net weight",
+            "Mass",
+            "Honey volume at 1.42 g/mL",
+            "Equivalent US fl oz of product"
+          ],
+          "rows": [
+            [
+              "8 oz",
+              "226.8 g",
+              "159.7 mL",
+              "5.40 US fl oz"
+            ],
+            [
+              "12 oz",
+              "340.2 g",
+              "239.6 mL",
+              "8.10 US fl oz"
+            ],
+            [
+              "16 oz (1 lb)",
+              "453.6 g",
+              "319.4 mL",
+              "10.80 US fl oz"
+            ],
+            [
+              "24 oz (1.5 lb)",
+              "680.4 g",
+              "479.1 mL",
+              "16.20 US fl oz"
+            ],
+            [
+              "32 oz (2 lb)",
+              "907.2 g",
+              "638.9 mL",
+              "21.60 US fl oz"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "title": "Worked example: choosing a 16 oz plastic honey bottle size",
+            "paragraphs": [
+              "A 16 oz net-weight claim equals 453.6 g. At 1.42 g/mL, that honey occupies about 319 mL. A buyer should therefore look beyond a bottle simply named “16 oz.” A 16 US fl oz container is approximately 473 mL, far larger than the product volume required for 16 oz by weight.",
+              "Begin the trial around the low-to-mid 300 mL range, but do not choose from the calculated number alone. A shoulder that narrows sharply can make a modest volume change look like a large fill-height change. A broad-sided bottle can make the same change look smaller. The target should combine declared net weight, a commercially acceptable fill line and enough process margin for the actual line."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Metric Market Sizing: 250 g, 400 g, 500 g and 1 kg",
+        "paragraphs": [
+          "Metric packs are easier to calculate because grams and millilitres connect directly through density. The decision still requires the same discipline: calculate product volume, allow for operating conditions, then verify the selected bottle. For Australia and other regulated markets, the declared quantity must be accurate; local label format and measurement requirements should be confirmed for the destination market rather than inferred from bottle names."
+        ],
+        "table": {
+          "headers": [
+            "Target honey net weight",
+            "Honey volume at 1.42 g/mL",
+            "What to evaluate next"
+          ],
+          "rows": [
+            [
+              "250 g",
+              "176.1 mL",
+              "Small squeeze-bottle geometry, cap outlet and usable label area"
+            ],
+            [
+              "400 g",
+              "281.7 mL",
+              "Fill height in roughly 300 mL-class shapes and headspace margin"
+            ],
+            [
+              "500 g",
+              "352.1 mL",
+              "Working fill in roughly 360–380 mL catalogue options"
+            ],
+            [
+              "1 kg",
+              "704.2 mL",
+              "Larger bottle stability, grip, panel strength and shipping performance"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "title": "Worked example: 500 g honey squeeze bottle dimensions",
+            "paragraphs": [
+              "The 500 g calculation gives about 352 mL of product at the assumed density. It does not produce one universal height or diameter. A tall cylindrical bottle, a ribbed oval bottle and a broad-shouldered squeeze bottle can all contain a similar working volume while presenting very different conveyor footprints, label panels and case counts.",
+              "For a dimensional brief, state the maximum overall height and width allowed by the filler, capper, labeler and shipping case. Then request the model-specific drawing. Gracepack’s current reference catalogue illustrates the range: the A54 is listed at 360 mL with an approximate 500 g honey reference, the GF-018 ribbed model at 380 mL/500 g, and the F-001 tall bottle at 360 mL/500 g. These are useful comparison points, not interchangeable guarantees; confirm the selected model with its approved drawing and a physical fill sample."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Nominal, Fill-Line and Overflow Capacity Must Not Be Confused",
+        "paragraphs": [
+          "Capacity terminology can create a larger sourcing error than the density calculation itself. “360 mL” may be a commercial model name, a nominal capacity or a supplier’s reference value. Unless the drawing states the measurement method, do not assume it is the brimful volume or the volume at your preferred fill line.",
+          "Ask the supplier to identify the capacity basis and show the fill height used for the quoted honey-weight reference. The approved drawing should also identify the bottle dimensions and neck finish relevant to the chosen closure. During sampling, weigh the empty bottle, fill with the production honey to the proposed line, and weigh it again. The difference is the product mass."
+        ],
+        "bullets": [
+          "Record the honey batch, temperature and measured density during the test.",
+          "Define the fill line with a repeatable physical reference rather than a casual visual estimate.",
+          "Check minimum, target and maximum fills against both label accuracy and package appearance.",
+          "Confirm that the same bottle, cap and liner combination used in the trial is the one approved for production."
+        ]
+      },
+      {
+        "title": "Headspace Engineering for Warm Automated Filling",
+        "paragraphs": [
+          "Packers often warm honey to reduce viscosity and improve flow. The product’s density and volume at filling temperature will differ from its cooled condition, and the pack can experience contraction as it returns to ambient temperature. Foam or entrained air can also make the initial level misleading. A cold-room calculation cannot define the final headspace by itself.",
+          "There is no universal safe headspace percentage for every PET honey bottle. The required space depends on honey temperature, moisture content, bottle geometry, wall distribution, closure system, line accuracy and the way the pack cools. A fixed percentage copied from another product can leave an unattractive low fill, create overflow at the nozzle, or place honey on the neck land where it interferes with sealing."
+        ],
+        "image": "/assets/blog/honey-bottle-headspace-warm-fill.webp",
+        "imageAlt": "PET honey bottles at different fill levels beneath a warm filling nozzle during headspace evaluation",
+        "imageCaption": "Validate headspace with the actual honey, fill temperature, bottle and line—not with a universal percentage.",
+        "subsections": [
+          {
+            "title": "Run the trial through the complete thermal cycle",
+            "paragraphs": [
+              "Measure density and temperature before filling. Fill at the planned production set point, apply the intended closure, allow the package to cool under representative conditions, and then recheck net weight, fill height, panel shape and leakage. Repeat at the expected process limits rather than testing only the ideal target.",
+              "If the bottle will run on an automated line, include real nozzle clearance, conveyor transfers and capping. The earlier guide to [high-speed honey bottling line failures](/resources/blog/high-speed-honey-bottling-line-bottle-failures/) explains why bottle stiffness, neck control and clean sealing surfaces have to be evaluated alongside fill volume."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "A Practical Bottle-Sizing Workflow for Packaging Buyers",
+        "paragraphs": [
+          "A calculation should narrow the field quickly, then hand the decision to a controlled physical trial. This workflow keeps legal quantity, shelf appearance and line performance in the same decision."
+        ],
+        "table": {
+          "headers": [
+            "Step",
+            "Action",
+            "Decision produced"
+          ],
+          "rows": [
+            [
+              "1",
+              "Define the declared net weight and destination-market units",
+              "One unambiguous commercial target"
+            ],
+            [
+              "2",
+              "Measure the actual honey density at a stated temperature",
+              "A batch-specific conversion factor"
+            ],
+            [
+              "3",
+              "Calculate the product volume and shortlist bottle families",
+              "A sensible capacity range"
+            ],
+            [
+              "4",
+              "Compare drawings, fill-line geometry, neck finish and line limits",
+              "Two or three viable models"
+            ],
+            [
+              "5",
+              "Fill samples at production temperature and cool them",
+              "Verified headspace, appearance and package behaviour"
+            ],
+            [
+              "6",
+              "Run line and shipping checks before final approval",
+              "A bottle-and-closure specification ready for ordering"
+            ]
+          ]
+        },
+        "bullets": [
+          "Bring the brand owner, quality team and filling partner into the sample review; each sees a different failure mode.",
+          "Do not approve label dimensions until artwork has been fitted to the actual bottle and the intended fill level is visible.",
+          "Keep the approved sample, drawing revision and test record together so a later reorder is compared with the same standard."
+        ]
+      },
+      {
+        "title": "Matching the Calculation to Gracepack Bottle Options",
+        "paragraphs": [
+          "The most useful supplier conversation starts with evidence: target net weight, measured density, filling temperature, closure, line limits and destination market. With those inputs, a packaging team can compare model-specific drawings and samples instead of guessing from a catalogue title.",
+          "For a 500 g programme, the [360 ml PET honey bottle](/products/honey-bottle-360ml/) provides one compact reference point, while the [ribbed PET honey bottle series](/products/ribbed-pet-honey-bottles/) includes the GF-018 380 mL/500 g and GF-019 740 mL/1000 g catalogue references. Buyers working around label height or conveyor footprint can also review [tall PET honey bottles](/products/tall-pet-honey-bottles/). The right choice is the model that passes the actual fill, closure and line trial—not simply the closest number in a table.",
+          "When requesting samples, send the target honey weight, a measured density if available, warm-fill temperature, preferred closure and maximum bottle envelope. Gracepack can then identify relevant current models for drawing and sample review. The inquiry is more useful when it asks for a testable shortlist rather than a promise that a nominal capacity will fit every honey."
+        ]
+      }
+    ],
+    "faqTitle": "Honey Bottle Sizing FAQs",
+    "faq": [
+      {
+        "question": "How many fluid ounces are in one pound of honey?",
+        "answer": "At an assumed density of 1.42 g/mL, one pound (16 oz by weight, or 453.6 g) occupies about 319 mL, equal to roughly 10.8 US fluid ounces. Actual volume varies with honey composition and temperature."
+      },
+      {
+        "question": "What bottle size holds 16 oz of honey by weight?",
+        "answer": "The honey itself occupies about 319 mL at 1.42 g/mL. The final bottle must be larger than the product volume to provide the intended fill line and process headspace. Shortlist low-to-mid 300 mL options, then verify the actual bottle with your honey and filling conditions."
+      },
+      {
+        "question": "What bottle volume is needed for 500 g of honey?",
+        "answer": "Five hundred grams occupies about 352 mL at 1.42 g/mL. A 360–380 mL catalogue option may be a useful starting range, but catalog capacity, working fill and overflow capacity must be distinguished before approval."
+      },
+      {
+        "question": "Does warm honey take up a different volume?",
+        "answer": "Yes. Honey density changes with temperature and composition. Measure or obtain the density at a stated condition, fill at the planned production temperature, then cool and recheck the finished pack."
+      },
+      {
+        "question": "Is multiplying fluid ounces by 1.5 accurate enough for a label?",
+        "answer": "No. It is a convenient screening estimate. At 1.42 g/mL, one US fluid ounce of honey weighs about 1.48 oz, but the real value changes with the honey. Legal net quantity and process settings should be based on measurement and controlled filling."
+      },
+      {
+        "question": "What is overflow capacity?",
+        "answer": "Overflow or brimful capacity is the volume held when the container is filled to the top of the finish under a stated method. It is not the same as the usable volume at the normal commercial fill line."
+      },
+      {
+        "question": "Are US and Imperial fluid ounces the same?",
+        "answer": "No. One US fluid ounce is 29.5735 mL, while one Imperial fluid ounce is 28.4131 mL. State the system in the packaging brief and conversion table."
+      },
+      {
+        "question": "How should a honey bottler verify net weight?",
+        "answer": "Weigh the empty package, fill it under representative production conditions, weigh the filled package, and subtract the tare. Record honey batch, density, temperature, fill setting and cooling condition, then check the result across a meaningful sample of the run."
+      }
+    ],
+    "date": "2026-10-13",
+    "updated": "2026-10-13",
+    "minutes": 17
+  },
+  {
     "slug": "high-speed-honey-bottling-line-bottle-failures",
     "title": "Optimizing Plastic Honey Bottles for High-Speed Automated Filling Lines",
     "seoTitle": "Honey Bottling Line: Stop Warping, Jams & Leaks",

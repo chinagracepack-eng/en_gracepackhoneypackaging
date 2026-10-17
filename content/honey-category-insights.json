@@ -1,7 +1,7 @@
 {
   "plastic": {
-    "title": "Plastic Honey Bottle Supply from China",
-    "text": "Source plastic bottles for honey packaging from Gracepack in China. Compare plastic honey bottles wholesale by capacity, body shape and the complete cap assembly. For food-safe plastic honey bottles, request documentation for the selected bottle, closure and intended conditions of use. If you require BPA-free honey bottles, ask for the applicable test report and sample scope before approving a claim.",
+    "title": "Plastic Honey Bottles Made for Your Product Line",
+    "text": "Gracepack supplies PET honey bottles in bear, ribbed, oval, flat and inverted formats. We match each body with its neck finish and closure, prepare samples for filling and label trials, and provide the material reports available for the selected PET bottle and cap.",
     "links": [
       [
         "/plastic-honey-bottles/",
@@ -14,8 +14,8 @@
     ]
   },
   "squeeze": {
-    "title": "Honey Squeeze Bottle Supply & Bulk Pricing",
-    "text": "Gracepack supplies honey squeeze bottles from China with matching closure options. When comparing honey squeeze bottle suppliers, request the bottle, cap and any valve or liner as a clearly specified set. Share your honey fill weight, order quantity and destination so we can review samples, packing and shipping requirements. For a squeeze bottle with cap, approve dispensing and reclosure with your honey before placing a bulk order.",
+    "title": "Upright and Inverted Honey Squeeze Bottles",
+    "text": "Our squeeze-bottle range covers flip-top, pointed-nozzle and cap-down dispensing. Tell us your target honey weight and serving style; we will shortlist the bottle-and-cap combinations, provide samples for flow testing and quote the selected assembly with its packing.",
     "links": [
       [
         "/inverted-honey-bottles/",
@@ -28,8 +28,8 @@
     ]
   },
   "glass": {
-    "title": "Glass Honey Packaging Sourced from China",
-    "text": "Source glass honey jars through Gracepack in China, with lids and protective packing reviewed for your order. If your brief specifies a honey glass bottle, confirm whether you need a narrow opening for pouring or a wide-mouth jar for spoon access. The glass range shown here consists of jars: compare the actual opening, capacity and closure before selecting a pack.",
+    "title": "Glass Honey Jars with Lids and Export Packing",
+    "text": "Gracepack supplies mini, hexagonal and beehive-shaped glass honey jars with coordinated metal lids. We help size labels for the chosen jar, build protective dividers around the assembled pack and quote the glass, lids and export cartons together.",
     "links": [
       [
         "/glass-honey-jars/",
@@ -38,8 +38,8 @@
     ]
   },
   "bear": {
-    "title": "Honey Bear Bottles with Matching Caps",
-    "text": "Compare honey bear bottles by target fill weight, grip and front label space. For bulk honey bear bottle orders, specify the bottle and cap together, including the outlet style and any sealing requirements. Test a filled sample to check the amount dispensed and how the cap closes after use.",
+    "title": "Honey Bear Bottles for Branded Retail Packs",
+    "text": "Our honey bear range runs from mini sample bottles to 500 g-class retail formats. Each bear has its own face, grip, front label panel and neck finish, so we supply the selected body with its matched cap and an actual sample for artwork and dispensing trials.",
     "links": [
       [
         "/honey-bear-bottles/",
@@ -48,8 +48,8 @@
     ]
   },
   "inverted": {
-    "title": "Select an Inverted Bottle & Closure Together",
-    "text": "An inverted plastic squeeze bottle rests on its closure between uses. A wide supporting cap can provide the intended standing surface, but cap fit alone does not establish leak resistance. Review the outlet or proposed valve, filled-pack stability and residual drips. Use your actual honey for testing: dispensing behavior can change with serving conditions.",
+    "title": "Cap-Down Honey Bottles and Supporting Valve Caps",
+    "text": "Our inverted bottles keep honey close to the outlet and stand on a wide closure. We match the body, supporting cap and optional silicone valve, then test the assembled sample for stability, flow, shut-off and leakage with your intended honey.",
     "links": [
       [
         "/honey-jar-lids-and-caps/",
@@ -62,8 +62,8 @@
     ]
   },
   "closures": {
-    "title": "Match the Bottle, Cap & Seal as One Assembly",
-    "text": "Choose honey bottle caps and jar lids by the complete container finish and intended use. Compare flip-top outlets, pointed nozzles, valve options, plastic screw caps, metal twist-off lids and aluminum caps. Request an assembled sample to confirm fit, dispensing, sealing and cap application before ordering.",
+    "title": "Caps, Lids and Seals Matched to the Container",
+    "text": "Gracepack supplies flip-top caps, pointed nozzles, valve closures, PP screw caps, metal twist-off lids and aluminum caps. We identify the complete neck finish, build the liner or valve into the specification and provide an assembled bottle-or-jar sample before production.",
     "links": [
       [
         "/honey-jar-lids-and-caps/",
@@ -72,6 +72,48 @@
       [
         "/custom-honey-packaging/",
         "Plan colors and custom packaging"
+      ]
+    ]
+  },
+  "hexagon": {
+    "title": "Hexagonal Honey Jars for Labels, Gifts and Retail Shelves",
+    "text": "Gracepack supplies hexagonal glass jars in coordinated sizes with flat label faces and matching metal lids. We size artwork within one facet, pair the lid with the selected finish and build dividers or gift-pack inserts around the actual jar shape.",
+    "links": [
+      [
+        "/products/hexagon-glass-honey-jars/",
+        "View hexagon glass jar sizes"
+      ],
+      [
+        "/mini-honey-jars/",
+        "Explore mini honey jars"
+      ]
+    ]
+  },
+  "mini": {
+    "title": "Mini Honey Jars for Portions and Gift Sets",
+    "text": "Our mini glass jars are designed for tasting portions, hospitality, wedding favors and boxed honey sets. We help select the portion size, coordinate the metal lid and fit each assembled jar into protective inserts for presentation and transit.",
+    "links": [
+      [
+        "/products/mini-glass-honey-jar-25ml/",
+        "View the 25 ml round jar"
+      ],
+      [
+        "/products/mini-glass-honey-jar-shapes/",
+        "Compare mini glass jar shapes"
+      ]
+    ]
+  },
+  "plastic-jars": {
+    "title": "PET Honey Jars for Spoonable and Larger Packs",
+    "text": "Gracepack supplies wide-mouth, square, round, ribbed and handled PET jars. We match the jar opening to your filling and serving method, pair the complete neck finish with its PP, PE or aluminum cap and provide model-specific dimensions, MOQ and carton data.",
+    "links": [
+      [
+        "/products/wide-mouth-pet-honey-jar-370ml/",
+        "View the 370 ml wide-mouth jar"
+      ],
+      [
+        "/products/honey-jars-with-handles/",
+        "Compare handled PET honey jars"
       ]
     ]
   }

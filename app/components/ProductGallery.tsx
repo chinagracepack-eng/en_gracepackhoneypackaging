@@ -39,6 +39,6 @@ export default function ProductGallery({slug,title}:{slug:string;title:string}) 
         <span>{view.label}</span>
       </button>)}
     </div>
-    <p className="note product-image-caption">{isClosure?'Exact dimensions, finish, liner or valve and container compatibility are matched to the selected assembly.':'The selected shape, dimensions and closure are documented in the product drawing and physical sample.'}</p>
+    <p className="note product-image-caption">{isClosure?`${title} is matched to the selected container by its complete finish, liner or valve and assembled fit.`:`The ${title} drawing and physical sample define the selected shape, dimensions and closure.`}</p>
   </div>;
 }

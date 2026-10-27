@@ -135,6 +135,17 @@
  .responsive-category-menu .filters,.responsive-category-menu .blog-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:0;padding:16px}
  .responsive-category-menu .filter-button,.responsive-category-menu .blog-tabs a{display:flex;align-items:center;min-height:44px;margin:0;padding:9px 12px;font-size:14px;line-height:1.35}
 }
+
+/* Homepage guide cards use each article's own lead image. */
+.home-guide-card{padding:0;border:1px solid var(--line);border-radius:4px;overflow:hidden;background:#fff;display:flex;flex-direction:column}
+.home-guide-card:hover{border-color:var(--green)}
+.home-guide-image{width:100%;aspect-ratio:1.5;object-fit:cover;background:var(--soft)}
+.home-guide-copy{padding:24px;display:flex;flex:1;flex-direction:column}
+.home-guide-copy .guide-number{margin-bottom:14px}
+.home-guide-copy h3{font-size:22px;line-height:1.28}
+.home-guide-copy p{line-height:1.65}
+.home-guide-copy .text-link{margin-top:auto;align-self:flex-start}
+@media(max-width:700px){.home-guide-card{padding:0}.home-guide-copy{padding:20px}.home-guide-image{aspect-ratio:1.55}}
 @media(min-width:701px) and (max-width:1000px){
  .wrap{width:calc(100% - 80px)}
  .section{padding:68px 0}

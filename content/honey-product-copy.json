@@ -20,7 +20,7 @@
     "answer": "You can retain the design, but adjust label width and height to the smaller panel. Proof the label on a sample to check the curved edges.",
     "filling": "The 250 ml bottle is referenced for about 350 g of honey. Establish the final weight on your own filling line because honey density, temperature and the required headspace change the usable fill.",
     "closure": "Its 38-400 finish accepts the matched PP cap configuration. Approve cap color, thread start and outlet performance on this bottle rather than transferring settings from another bear model.",
-    "selection": "Use the 250 ml bear for a smaller shelf footprint, tasting range or lower net-weight offer while retaining the familiar bear silhouette.",
+    "selection": "Use the 250 ml bear for a smaller shelf footprint or lower net-weight offer while retaining the familiar bear silhouette.",
     "testing": "Check front-panel label adhesion around the molded body, cap alignment, squeeze force and bottle recovery. A packed-carton trial should also protect the face and closure from rubbing."
   },
   "ribbed-honey-squeeze-bottle-180ml": {
@@ -60,31 +60,31 @@
     "testing": "Inspect the rim, cap torque, liner compression and seal peel. Verify label height below the shoulder and test stacked cartons using the final filled weight."
   },
   "mini-glass-honey-jar-25ml": {
-    "headline": "Mini Honey Gifts, Tastings & Event Favors",
-    "application": "The compact jar works well for portioned honey, tasting collections and presentation packs. Its small body benefits from a concise front label, coordinated lid artwork and a fitted protective insert.",
-    "artwork": "Prioritize readable text on the small label; review a lid sticker or gift-box label if more space is needed.",
-    "packing": "Approve the jar and lid inside the gift-box insert, with suitable separation for glass during transit.",
+    "headline": "Mini Honey Jars for Commercial Samples & Hospitality",
+    "application": "The compact jar works well for portioned honey, commercial samples and hospitality supply. Its small body benefits from a concise front label and a matching metal lid.",
+    "artwork": "Prioritize readable text on the small label and check the artwork at actual print size on the jar.",
+    "packing": "Approve the jar and lid with suitable carton separation for glass during transit.",
     "question": "Does 25 ml mean the jar holds 25 g of honey?",
     "answer": "No. The catalog lists 25 ml water capacity and a 35 g reference honey fill. Check the actual honey weight and headspace with a filling trial.",
     "filling": "The 25 ml volume corresponds to a 35 g reference honey fill. Small variations are visually obvious in a mini jar, so control the fill by weight and keep the rim clean before applying the metal lid.",
     "closure": "The 39-400 finish must be paired with the specified tin cap and sealing compound or liner. Confirm application torque without chipping the glass finish.",
-    "selection": "Use this round jar for single portions, tasting flights, hospitality or event favors where a compact glass presentation is the priority.",
-    "testing": "Check glass rims, lid engagement, label legibility and the complete jar inside its insert. Drop and vibration testing should use the final gift box or shipping carton."
+    "selection": "Use this round jar for commercial samples or hospitality portions where a compact glass format is required.",
+    "testing": "Check glass rims, lid engagement, label legibility and the jar inside its carton divider. Drop and vibration testing should use the final shipping carton."
   },
   "hexagon-glass-honey-jars": {
     "headline": "Hexagon Jar Labeling & Brand Presentation",
-    "application": "Compare three faceted glass formats for smaller branded packs and gifts. Select the size first, then place the label within its individual flat faces.",
+    "application": "Compare three faceted glass formats for smaller branded honey lines. Select one size first, then place the label within its individual flat faces.",
     "artwork": "Give each size its own label dimensions; leave a margin before the corners so the label does not bridge the facets.",
-    "packing": "Review separation between glass faces and lid clearance in a mixed-size gift or shipping box.",
+    "packing": "Review separation between glass faces and lid clearance in the shipping carton for the selected size.",
     "question": "Can one label size cover all three jars?",
     "answer": "Each jar has its own dimensions. Keep the visual design consistent, but size and proof the label separately on each chosen model.",
     "filling": "The 85, 100 and 180 ml jars support roughly 120, 140 and 250 g reference fills. Set each recipe by weight and keep the six-sided shoulder and rim free of honey before lid application.",
     "closure": "Each size needs its own confirmed metal lid and lug or thread specification. Match the sealing compound, application setting and thermal process to the selected jar.",
-    "selection": "Build a coordinated gift or retail range from three hexagonal sizes, but select each jar independently for fill weight, label face and carton layout.",
-    "testing": "Inspect corners and rims, test every lid size, and check labels stay within one flat face. Mixed-size gift packs need a fitted insert for each jar outline."
+    "selection": "Choose from three hexagonal sizes, selecting each jar independently for fill weight, label face and carton layout.",
+    "testing": "Inspect corners and rims, test the matching lid, and check that the label stays within one flat face. Confirm carton dividers for the selected jar outline."
   },
   "ribbed-glass-honey-jars": {
-    "headline": "Beehive Glass Jars for Branded & Gift Packs",
+    "headline": "Beehive Glass Jars for Branded Honey Lines",
     "application": "The ribbed glass family uses a beehive-inspired profile for honey presentation. Compare the three sizes for a coordinated shelf range.",
     "artwork": "Work within the center panel and check whether the ribbed surface limits label height or adhesion.",
     "packing": "Plan dividers around the rounded profiles and use the selected model’s carton data for freight estimates.",
@@ -116,7 +116,7 @@
     "answer": "No common cap is assumed. The listed neck finishes vary, so confirm the complete bottle-and-cap combination for each selected model.",
     "filling": "Nine models cover 70 to 740 ml and reference fills from 100 g to 1 kg. Set up each body separately: height, shoulder shape and squeeze panel change nozzle position, line guides and fill speed.",
     "closure": "Most models use 38-400 PP caps, while the 70 ml option uses 28-400. Confirm the exact outlet and cap specification for every selected bottle even when the nominal finish matches.",
-    "selection": "Use this series to build a multi-size upright squeeze range. Shortlist by target net weight first, then compare grip, label area and case count.",
+    "selection": "Select the appropriate upright squeeze bottle by target net weight, then compare grip, label area and case count for that model.",
     "testing": "Approve one filled sample per model. Check rib recovery, neck dimensions, cap torque, label placement and carton compression rather than applying one result across the whole family."
   },
   "compact-inverted-honey-bottles": {
@@ -169,21 +169,21 @@
   },
   "small-wide-mouth-honey-jars": {
     "headline": "Small Honey Packs with Wide-Mouth Access",
-    "application": "The wide opening allows straightforward filling and spoon access in a compact pack. Different cap materials and jar proportions support small honey portions, gift sets and sample collections.",
+    "application": "The wide opening allows straightforward filling and spoon access in a compact jar. Different cap materials and jar proportions support small honey portions, commercial samples and hospitality supply.",
     "artwork": "Keep the label below the lid and shoulder; small changes in jar height affect the available artwork space.",
     "packing": "Confirm the selected closure material and whether the caps are packed separately from the jars.",
     "question": "Why do the cap materials differ across the range?",
     "answer": "The catalog records PP or PE for different models. Keep the cap material, liner and complete neck specification attached to the model you select.",
     "filling": "Seven compact jars cluster around 180–200 ml and 250–280 g reference fills. Small capacity differences affect headspace, so establish the target with a weigh-fill trial for the chosen body.",
     "closure": "The series includes 57-400 and sample-confirmed finishes with PP or PE caps. Keep cap material, liner and jar model on the same specification line.",
-    "selection": "Use this family for small spoonable packs, samplers or gift sets; compare opening access and body proportions rather than choosing from capacity alone.",
+    "selection": "Use this family for small spoonable fills, commercial samples or hospitality portions; compare opening access and body proportions rather than choosing from capacity alone.",
     "testing": "Check spoon and nozzle access, rim cleanliness, cap application and label fit on every shortlisted shape. Confirm carton count for the exact model."
   },
   "pet-honey-bear-bottle-options": {
     "headline": "Honey Bear Shapes & Label Options",
     "application": "The molded bear body provides a recognizable honey presentation without relying on a full wrap label. Model-specific face details, grip proportions and front panels create different branding and serving experiences.",
     "artwork": "Choose the bear profile before finalizing artwork so the label preserves the face and molded details.",
-    "packing": "Review each bear’s outline and cap height when planning partitions or gift packaging.",
+    "packing": "Review each bear’s outline and cap height when specifying carton partitions and export packing.",
     "question": "Are these bear bottles interchangeable?",
     "answer": "They have different capacities, dimensions and closure options. Choose by model and approve the label and cap on that specific bear.",
     "filling": "Five bear shapes span 60 to 360 ml and reference fills from 84 to 500 g. Each sculpture displaces volume differently, so determine fill level and nozzle depth on the individual model.",
@@ -241,14 +241,14 @@
   },
   "honey-bear-bottle-175ml": {
     "headline": "Small Honey Bear Packs with Aluminum Caps",
-    "application": "The compact molded bear format suits smaller honey portions and presentation packs. Its front panel supports a concise label, while the aluminum closure gives the pack a contrasting metallic finish.",
+    "application": "The compact molded bear format suits smaller honey fill weights. Its front panel supports a concise label, while the aluminum closure gives the bottle a contrasting metallic finish.",
     "artwork": "Keep the molded bear details visible and coordinate the cap finish with the front label.",
     "packing": "Confirm protection for the metal finish and the way caps and bottles are packed.",
     "question": "Is this pack a flip-top squeeze pack?",
     "answer": "This bottle is listed with an aluminum cap. Request the assembled sample to review opening, pouring and reclosure for your intended use.",
     "filling": "The 175 ml bottle has a 227 g reference fill. Its compact shape and aluminum cap call for careful nozzle centring and a clean neck before the metal closure is applied.",
     "closure": "The 38-400 finish is paired here with an aluminum screw cap rather than a flip-top. Confirm liner, torque and dispensing method for the intended use.",
-    "selection": "Choose this bear for a small decorative or gift-oriented pack where a metallic closure is preferred over one-handed squeeze dispensing.",
+    "selection": "Choose this bear for a small branded honey line where a metallic closure is preferred over one-handed squeeze dispensing.",
     "testing": "Inspect the molded bear, metal finish and liner seating. Check pouring, reclosure and cap scuffing inside the finished carton."
   },
   "mini-pet-honey-nozzle-bottles": {
@@ -256,16 +256,16 @@
     "application": "The small bodies support portioned honey packs and controlled table service. A pointed nozzle provides directional flow, while the 60 ml and 125 ml formats offer different grip and label areas.",
     "artwork": "Proof small text at actual size and preserve enough space to grip the bottle below the nozzle.",
     "packing": "Compare the carton quantity and cap clearance for each mini format before planning shipment.",
-    "question": "Which size should I choose for a sample pack?",
+    "question": "Which size should I choose for a commercial sample?",
     "answer": "Choose the intended honey weight and serving method, then compare the actual fill and dispensing on the 60 ml and 125 ml samples.",
     "filling": "The 60 and 125 ml bottles suit approximately 80 g and 175 g fills. Use a small-diameter nozzle, control cut-off and verify fill accuracy because small absolute errors are more visible in mini packs.",
     "closure": "The 125 ml option lists 38-410; the 60 ml neck needs sample confirmation. Match each pointed cap separately and verify tip closure after filling.",
-    "selection": "Use the 60 ml format for tasting portions and the 125 ml format where a larger grip and label area are needed without leaving the mini category.",
+    "selection": "Use the 60 ml format for smaller portions and the 125 ml format where a larger grip and label area are needed.",
     "testing": "Check dosing repeatability, nozzle leakage, small-label readability and cap protection. Carton dividers should prevent pointed tips from bearing load."
   },
   "wide-mouth-pet-honey-jar-shapes": {
     "headline": "Jar Shape, Spoon Access & Label Placement",
-    "application": "Each body shape provides a different balance of filling access, shoulder profile and label space. The wide openings support spoonable honey, and the varied footprints suit different shelf and gift-pack layouts.",
+    "application": "Each body shape provides a different balance of filling access, shoulder profile and label space. The wide openings support spoonable honey, and the varied footprints suit different shelf and carton layouts.",
     "artwork": "Fit the artwork to each shoulder profile instead of applying one flat label template across all three jars.",
     "packing": "Compare the chosen jar’s outer profile with carton spacing and protection requirements.",
     "question": "How do I choose between the three jar shapes?",
@@ -312,16 +312,16 @@
     "testing": "Check roundness, rim dimensions, label seam and cap engagement. Filled cartons should be tested for vertical load using the chosen jar height."
   },
   "mini-glass-honey-jar-shapes": {
-    "headline": "Mini Glass Jar Shapes for Honey Gift Sets",
-    "application": "Compare 80 ml and 100 ml glass jars for tasting and gift ranges. Shape and lid dimensions help determine how each jar sits inside the finished presentation.",
-    "artwork": "Choose the gift-box arrangement first, then check the visible label area on each jar shape.",
+    "headline": "Mini Glass Jar Shapes for Small-Fill Honey Lines",
+    "application": "Compare 80 ml and 100 ml glass jars for commercial samples, hospitality portions and other small-fill programs. Shape and lid dimensions determine label space and carton requirements.",
+    "artwork": "Choose the jar shape first, then check the visible label area on the exact production sample.",
     "packing": "Approve the lid and jar together inside protective inserts rather than sizing the box from capacity alone.",
-    "question": "Can these jars use the same gift-box insert?",
+    "question": "Can these jars use the same carton divider?",
     "answer": "Their heights and body profiles differ. Test each assembled jar in the insert, including lid clearance and protection between glass surfaces.",
-    "filling": "The 80 and 100 ml jars support approximately 110 and 140 g fills. Fill by weight and maintain a consistent visible level across mixed-shape gift sets.",
+    "filling": "The 80 and 100 ml jars support approximately 110 and 140 g fills. Fill by weight and confirm the visible level for the selected jar shape.",
     "closure": "Each glass shape needs its matching tin cap and confirmed finish. Include the sealing compound or liner and application setting in the order specification.",
-    "selection": "Select by gift-box layout and visual style: the shapes share a mini format, but their height, body diameter and label area differ.",
-    "testing": "Inspect rims and glass surfaces, verify every lid, and fit assembled jars into the final insert. Test the complete presentation pack for breakage in transit."
+    "selection": "Select by filling requirement, jar dimensions and label area. The shapes share a mini format, but their height and body diameter differ.",
+    "testing": "Inspect rims and glass surfaces, verify the matching lid, and confirm the carton divider and protective packing for transit."
   },
   "honey-bottle-360ml": {
     "headline": "360 ml PET Bottle for Approx. 500 g Honey Packs",

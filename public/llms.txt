@@ -1,6 +1,6 @@
 # Gracepack Honey Packaging
 
-> Empty plastic honey bottles, glass honey jars and matching packaging components for B2B buyers.
+> Empty plastic honey bottles, glass honey jars and matching closures for bulk and custom packaging orders.
 
 Canonical website: https://gracepackhoneypackaging.com/
 Contact: info@gracepack.com
@@ -10,12 +10,11 @@ Contact: info@gracepack.com
 - [Glass honey jars](https://gracepackhoneypackaging.com/glass-honey-jars/)
 - [Custom packaging](https://gracepackhoneypackaging.com/custom-honey-packaging/)
 - [Quality documents](https://gracepackhoneypackaging.com/quality/)
-- [Buyer guides](https://gracepackhoneypackaging.com/guides/)
+- [Packaging guides](https://gracepackhoneypackaging.com/resources/blog/)
 
-Products are supplied empty. Catalog honey weights are reference fills. MOQ, final specification, availability and lead time are confirmed with the quotation. Material test reports apply to their stated samples and scopes. Glass jars are sourced; the ISO 22000 certificate identifies plastic bottle and cap processing.
+Products are supplied empty. Catalog honey weights are reference fills. MOQ, final specification, availability and lead time are confirmed with the quotation. Available material reports identify the samples and methods tested. Glass jars are supplied through our packaging network; the ISO 22000 certificate covers our plastic bottle and cap processing.
 
 Buyer resources:
 - /resources/ — Honey packaging resource center
 - /faq/ — Honey-specific questions on selection, closures, orders, customization, quality and shipping
-- /buyer-checklist/ — Prepare a packaging brief
-- /case-studies/ — Honey packaging sourcing, bottle-size review and gift-pack planning
+- /case-studies/ — Honey packaging sourcing, bottle-size review and export-packing decisions

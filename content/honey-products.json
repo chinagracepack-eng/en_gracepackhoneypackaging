@@ -170,7 +170,7 @@
       "glass",
       "mini"
     ],
-    "description": "Mini round glass jar with a metal lid option for tasting sets, gift boxes and event favors. The 25 ml capacity has a 35 g reference honey fill.",
+    "description": "Mini round glass jar with a metal lid option for commercial samples and hospitality portions. The 25 ml capacity has a 35 g reference honey fill.",
     "volume": "25 ml",
     "honeyWeight": "35 g",
     "neck": "39-400",
@@ -205,7 +205,7 @@
       "hexagon",
       "mini"
     ],
-    "description": "Six-sided glass honey jars with flat label panels and metal lid options. Three sizes support a coordinated branded or gift range, including a 250 g reference honey fill option.",
+    "description": "Six-sided glass honey jars with flat label panels and metal lid options. Three individual sizes support branded honey lines, including a 250 g reference honey fill option.",
     "volume": "85 / 100 / 180 ml",
     "honeyWeight": "120 / 140 / 250 g",
     "neck": "Match the lid to the selected jar",
@@ -257,7 +257,7 @@
     "categories": [
       "glass"
     ],
-    "description": "Beehive-shaped glass honey jars with ribbed walls, a central label panel and matching metal lid options. Three capacities support coordinated branded honey lines and gift-pack formats.",
+    "description": "Beehive-shaped glass honey jars with ribbed walls, a central label panel and matching metal lid options. Three capacities are available for branded honey lines.",
     "volume": "180 / 350 / 720 ml",
     "honeyWeight": "250 / 500 / 1,000 g",
     "neck": "Match the lid to the selected jar",
@@ -685,7 +685,7 @@
       "plastic",
       "plastic-jars"
     ],
-    "description": "Square-style PET honey jars in 360 ml and 440 ml sizes with a 61-400 neck finish. Defined label faces support a coordinated range of spoonable honey packs.",
+    "description": "Square-style PET honey jars in 360 ml and 440 ml sizes with a 61-400 neck finish. Each size has defined label faces for spoonable honey products.",
     "volume": "360 ml / 440 ml",
     "honeyWeight": "500 g / 610 g",
     "neck": "See model specifications",
@@ -1566,7 +1566,7 @@
       "glass",
       "mini"
     ],
-    "description": "Three mini glass jar shapes in 80 ml or 100 ml capacities with metal lid options. The compact profiles suit honey tasting sets, gifts and branded presentation packs.",
+    "description": "Three mini glass jar shapes in 80 ml or 100 ml capacities with metal lid options. The compact profiles suit commercial samples, hospitality portions and small-fill honey lines.",
     "volume": "80 ml / 100 ml",
     "honeyWeight": "110 g / 140 g",
     "neck": "See model specifications",
@@ -1605,7 +1605,7 @@
     ],
     "closure": "Tin cap",
     "imageKind": "Product image; confirm the selected product with a physical sample",
-    "specNotes": "Approve the lid and jar as one assembly. Compare the finished pack against your gift-box insert and protective packing."
+    "specNotes": "Approve the lid and jar as one assembly. Confirm the carton divider and protective packing for the selected model."
   },
   {
     "slug": "honey-bottle-360ml",

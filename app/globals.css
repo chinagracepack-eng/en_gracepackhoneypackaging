@@ -290,3 +290,71 @@
  .download-grid h3{font-size:17px;line-height:1.25}
  .download-grid p,.download-grid .text-link{font-size:12px;line-height:1.55}
 }
+
+/* Plastic honey bottle category */
+.plastic-category-content{background:#f7faf6;border-top:1px solid var(--line)}
+.plastic-category-section{padding:74px 0}
+.plastic-category-section h2{font-size:clamp(30px,3vw,42px)}
+.plastic-category-section h3{font-size:19px;letter-spacing:-.025em;margin-bottom:10px}
+.plastic-category-section p{font-size:14px;line-height:1.72}
+.plastic-more{background:#edf6ed}
+.plastic-more-layout{display:grid;grid-template-columns:.72fr 1.28fr;gap:54px;align-items:center}
+.plastic-more-layout>div:first-child{padding:22px}
+.plastic-link-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.plastic-link-grid>a{display:flex;justify-content:space-between;gap:18px;padding:20px;background:#fff;border:1px solid var(--line);border-radius:7px}
+.plastic-link-grid>a:hover{border-color:var(--green)}
+.plastic-link-grid h3{font-size:17px;margin-bottom:5px}
+.plastic-link-grid p{font-size:13px;margin:0}
+.plastic-link-grid>a>span{color:var(--green);font-weight:800}
+.plastic-centered-heading{text-align:center;max-width:790px;margin:0 auto 34px}
+.plastic-centered-heading h2:after{content:'';display:block;width:62px;height:3px;background:var(--green);margin:18px auto 0}
+.plastic-centered-heading p{margin:20px auto 0}
+.plastic-supply{background:linear-gradient(120deg,#fff7e7,#fffdf8)}
+.plastic-supply-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.plastic-supply-grid article,.plastic-choice-grid article,.plastic-question-grid article{background:#fff;border:1px solid var(--line);border-radius:7px;padding:25px}
+.plastic-supply-grid article{min-height:205px}
+.plastic-supply-grid p,.plastic-choice-grid p,.plastic-question-grid p{margin-bottom:0}
+.plastic-documents{background:linear-gradient(110deg,#edf8f0,#f8fcf8)}
+.plastic-document-layout{display:grid;grid-template-columns:.8fr 1.2fr;gap:55px;align-items:center}
+.plastic-document-list{display:grid;gap:12px}
+.plastic-document-list>a{display:grid;grid-template-columns:34px 1fr;gap:15px;padding:18px;background:#f9fcf8;border:1px solid #d8e7da;border-radius:6px}
+.plastic-document-list>a:hover{border-color:var(--green)}
+.plastic-doc-icon{display:flex;align-items:center;justify-content:center;width:30px;height:30px;color:var(--green);border:1px solid #b8d5bf;border-radius:4px;font-weight:800}
+.plastic-document-list h3{font-size:16px;margin:0 0 3px}
+.plastic-document-list p{font-size:12px;margin:0 0 4px}
+.plastic-document-list b{font-size:12px;color:var(--green)}
+.plastic-support{background:#f7faf8}
+.plastic-support-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.plastic-support-grid article{background:#fff;border:1px solid var(--line);border-radius:7px;padding:26px;min-height:230px}
+.plastic-cube{display:flex;align-items:center;justify-content:center;color:var(--green);font-size:27px;width:38px;height:38px;margin-bottom:16px}
+.plastic-support-grid ul{list-style:none;padding:0;margin:0}
+.plastic-support-grid li{font-size:13px;color:var(--muted);padding:3px 0}
+.plastic-support-grid li:before{content:'✓';color:var(--green);margin-right:8px;font-weight:800}
+.plastic-choosing{background:linear-gradient(120deg,#fff8e8,#fffdf8)}
+.plastic-choice-grid,.plastic-question-grid,.plastic-related-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.plastic-choice-grid article{min-height:205px}
+.plastic-questions{background:linear-gradient(120deg,#edf8f1,#fbfdfb)}
+.plastic-question-grid article{min-height:225px}
+.plastic-related{background:#f7faf8}
+.plastic-related-grid>a{background:#fff;border:1px solid var(--line);border-radius:7px;overflow:hidden}
+.plastic-related-grid>a:hover{border-color:var(--green)}
+.plastic-related-grid img{width:100%;aspect-ratio:1.35;object-fit:contain;background:#fff}
+.plastic-related-grid>a>div{padding:20px}
+.plastic-related-grid .section-label{font-size:11px;margin-bottom:9px}
+.plastic-related-grid h3{font-size:18px}
+.plastic-related-grid p:last-child{font-size:13px;margin-bottom:0}
+@media(max-width:1000px){
+ .plastic-more-layout,.plastic-document-layout{grid-template-columns:1fr;gap:28px}
+ .plastic-more-layout>div:first-child{padding:0}
+ .plastic-supply-grid,.plastic-support-grid{grid-template-columns:repeat(2,1fr)}
+ .plastic-choice-grid,.plastic-question-grid,.plastic-related-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:700px){
+ .plastic-category-section{padding:52px 0}
+ .plastic-link-grid{grid-template-columns:1fr}
+ .plastic-supply-grid,.plastic-support-grid{grid-template-columns:1fr}
+ .plastic-choice-grid,.plastic-question-grid,.plastic-related-grid{grid-template-columns:1fr}
+ .plastic-supply-grid article,.plastic-support-grid article,.plastic-choice-grid article,.plastic-question-grid article{min-height:0;padding:21px}
+ .plastic-centered-heading{text-align:left;margin-bottom:26px}
+ .plastic-centered-heading h2:after{margin-left:0}
+}

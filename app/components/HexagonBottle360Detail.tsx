@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ArrowRight } from "lucide-react";
 
 const overview:[string,string][]=[
  ['Designed for','Branded 500 g-class honey packs that need a clear squeeze bottle, broad label faces and a controlled directional outlet.'],
@@ -67,7 +68,7 @@ export default function HexagonBottle360Detail(){return <div className="bear320-
 
  <section className="bear320-section bear320-specifications" id="specifications"><div className="wrap"><p className="section-label">PRODUCT SPECIFICATIONS</p><h2>360 ml Hexagon Honey Squeeze Bottle Specifications</h2><p className="bear320-lead">The confirmed values below come from Gracepack’s product record for model A66. Commercial and packing fields without an approved value remain order-confirmation items rather than estimated claims.</p><div className="bear320-table-wrap" role="region" aria-label="360 ml hexagon honey squeeze bottle specifications" tabIndex={0}><table><thead><tr><th>Specification</th><th>Available specification</th><th>Order confirmation</th></tr></thead><tbody>{specifications.map(([name,value,confirmation])=><tr key={name}><th scope="row">{name}</th><td>{value}</td><td>{confirmation}</td></tr>)}</tbody></table></div></div></section>
 
- <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div></div></section>
+ <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div></div></section>
 
  <section className="bear320-section bear320-programs" id="application"><div className="wrap bear320-program-layout"><div><p className="section-label">BEST-FIT USE</p><h2>360 ml Hexagon Honey Bottle Programs We Supply</h2><p>We supply A66 as a defined PET body-and-pointed-cap set for honey brands, contract packers, importers and private-label programs. The geometric profile creates a distinctive shelf shape while the two broad faces support practical label planning.</p></div><div className="bear320-program-grid">{programs.map(([title,text])=><article key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
 

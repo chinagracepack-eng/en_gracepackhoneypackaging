@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
 const overview: [string, string][] = [
   [
@@ -265,7 +266,7 @@ export default function FlipTopHoneyBottleCapsDetail() {
           <div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div>
           <div className="bear320-link-grid">
             {packagingLinks.map(([title, text, href]) => (
-              <Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>
+              <Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>
             ))}
           </div>
         </div>

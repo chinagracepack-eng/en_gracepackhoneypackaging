@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
 const overview: [string, string][] = [
   ["Designed for", "Wide-mouth PET honey jars that need repeated opening, practical grip and a model-matched threaded closure."],
@@ -88,7 +89,7 @@ export default function PlasticScrewCapsHoneyJarsDetail() {
       <section className="bear320-section bear320-explore">
         <div className="wrap bear320-explore-layout">
           <div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div>
-          <div className="bear320-link-grid">{packagingLinks.map(([title, text, href]) => <Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div>
+          <div className="bear320-link-grid">{packagingLinks.map(([title, text, href]) => <Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div>
         </div>
       </section>
 

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
 const overview = [
   [
@@ -303,7 +304,7 @@ export default function MiniPetNozzleBottlesDetail() {
                   <h3>{title}</h3>
                   <p>{text}</p>
                 </div>
-                <span>View</span>
+                <ArrowRight className="bear320-link-arrow" aria-hidden="true" />
               </Link>
             ))}
           </div>

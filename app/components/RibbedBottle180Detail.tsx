@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ArrowRight } from "lucide-react";
 
 const overview:[string,string][]=[
  ['Designed for','Compact branded honey packs that need an easy-to-grip squeeze bottle, a defined label panel and direct flip-top dispensing.'],
@@ -67,7 +68,7 @@ export default function RibbedBottle180Detail(){return <div className="bear320-d
 
  <section className="bear320-section bear320-specifications" id="specifications"><div className="wrap"><p className="section-label">PRODUCT SPECIFICATIONS</p><h2>180 ml Ribbed Honey Squeeze Bottle Specifications</h2><p className="bear320-lead">The confirmed dimensions below come from Gracepack’s product record for model G-07. Commercial and packing fields without an approved value remain order-confirmation items rather than estimated claims.</p><div className="bear320-table-wrap" role="region" aria-label="180 ml ribbed honey squeeze bottle specifications" tabIndex={0}><table><thead><tr><th>Specification</th><th>Available specification</th><th>Order confirmation</th></tr></thead><tbody>{specifications.map(([name,value,confirmation])=><tr key={name}><th scope="row">{name}</th><td>{value}</td><td>{confirmation}</td></tr>)}</tbody></table></div></div></section>
 
- <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div></div></section>
+ <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div></div></section>
 
  <section className="bear320-section bear320-programs" id="application"><div className="wrap bear320-program-layout"><div><p className="section-label">BEST-FIT USE</p><h2>180 ml Ribbed Honey Bottle Programs We Supply</h2><p>We supply the G-07 as a defined PET body-and-cap set for honey brands, contract packers, importers and private-label programs. The compact oval footprint, grip ribs and front label panel support direct squeeze dispensing without relying on a novelty-shaped bottle.</p></div><div className="bear320-program-grid">{programs.map(([title,text])=><article key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
 

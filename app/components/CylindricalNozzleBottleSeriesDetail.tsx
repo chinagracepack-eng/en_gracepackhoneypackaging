@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ArrowRight } from "lucide-react";
 
 const overview:[string,string][]=[
  ['Designed for','Honey brands and contract packers that need a tall, straight-sided PET bottle with a narrow dispensing outlet and a practical wraparound label area.'],
@@ -64,7 +65,7 @@ export default function CylindricalNozzleBottleSeriesDetail(){return <div classN
 
  <section className="bear320-section bear320-specifications" id="specifications"><div className="wrap"><p className="section-label">PRODUCT SPECIFICATIONS</p><h2>Cylindrical Honey Nozzle Bottle Specifications</h2><p className="bear320-lead">The two stock models have separate dimensions, component weights and carton configurations. A71 has a recorded standard MOQ; A72 quantity and final closure details are confirmed with the quotation rather than estimated here.</p><div className="bear320-table-wrap" role="region" aria-label="Cylindrical honey nozzle bottle specifications" tabIndex={0}><table><thead><tr><th>Specification</th><th>Available specification</th><th>Order confirmation</th></tr></thead><tbody>{specifications.map(([name,value,confirmation])=><tr key={name}><th scope="row">{name}</th><td>{value}</td><td>{confirmation}</td></tr>)}</tbody></table></div></div></section>
 
- <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div></div></section>
+ <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div></div></section>
 
  <section className="bear320-section bear320-programs" id="application"><div className="wrap bear320-program-layout"><div><p className="section-label">BEST-FIT USE</p><h2>Cylindrical Honey Nozzle Bottle Programs We Supply</h2><p>We supply A71 and A72 as distinct PET bottle-and-cap assemblies for honey brands, contract packers, importers and private-label programs. Their straight walls support clean label layouts, while the pointed outlet provides a narrower, directed honey stream.</p></div><div className="bear320-program-grid">{programs.map(([title,text])=><article key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
 

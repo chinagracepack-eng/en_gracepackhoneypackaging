@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ArrowRight } from "lucide-react";
 
 const overview:[string,string][]=[
  ['Designed for','Branded honey lines that need a compact bear silhouette, a defined front label panel and direct squeeze dispensing.'],
@@ -67,7 +68,7 @@ export default function BearBottle250Detail(){return <div className="bear320-det
 
  <section className="bear320-section bear320-specifications" id="specifications"><div className="wrap"><p className="section-label">PRODUCT SPECIFICATIONS</p><h2>250 ml PET Honey Bear Bottle Specifications</h2><p className="bear320-lead">The confirmed values below come from Gracepack’s product record for model G-41. Filling performance and final commercial details are checked against the selected cap, sample and order route.</p><div className="bear320-table-wrap" role="region" aria-label="250 ml PET honey bear bottle specifications" tabIndex={0}><table><thead><tr><th>Specification</th><th>Available specification</th><th>Order confirmation</th></tr></thead><tbody>{specifications.map(([name,value,confirmation])=><tr key={name}><th scope="row">{name}</th><td>{value}</td><td>{confirmation}</td></tr>)}</tbody></table></div></div></section>
 
- <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div></div></section>
+ <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div></div></section>
 
  <section className="bear320-section bear320-programs" id="application"><div className="wrap bear320-program-layout"><div><p className="section-label">BEST-FIT USE</p><h2>250 ml Honey Bear Bottle Programs We Supply</h2><p>We supply the G-41 bottle as a defined PET body-and-cap set for honey brands, contract packers, importers and private-label programs. Its smaller footprint supports compact honey packs while retaining the familiar bear presentation.</p></div><div className="bear320-program-grid">{programs.map(([title,text])=><article key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
 

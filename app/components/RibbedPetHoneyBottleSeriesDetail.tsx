@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ArrowRight } from "lucide-react";
 
 const overview:[string,string][]=[
  ['Designed for','Honey brands, contract packers and packaging distributors that need an upright clear PET squeeze-bottle family covering approximately 100 g to 1 kg honey fills.'],
@@ -68,7 +69,7 @@ export default function RibbedPetHoneyBottleSeriesDetail(){return <div className
 
  <section className="bear320-section bear320-specifications" id="specifications"><div className="wrap"><p className="section-label">PRODUCT SPECIFICATIONS</p><h2>Ribbed PET Honey Bottle Series Specifications</h2><p className="bear320-lead">Each stock model has its own dimensions, component weights, closure route and packing record. The values below come from Gracepack’s reviewed product master; missing MOQ or carton fields are left for quotation confirmation rather than estimated.</p><div className="bear320-table-wrap" role="region" aria-label="Ribbed PET honey bottle series specifications" tabIndex={0}><table><thead><tr><th>Specification</th><th>Available specification</th><th>Order confirmation</th></tr></thead><tbody>{specifications.map(([name,value,confirmation])=><tr key={name}><th scope="row">{name}</th><td>{value}</td><td>{confirmation}</td></tr>)}</tbody></table></div></div></section>
 
- <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><span>View</span></Link>)}</div></div></section>
+ <section className="bear320-section bear320-explore"><div className="wrap bear320-explore-layout"><div><p className="section-label">EXPLORE PACKAGING OPTIONS</p><h2>Explore Related Honey Packaging Solutions</h2></div><div className="bear320-link-grid">{packagingLinks.map(([title,text,href])=><Link href={href} key={href}><div><h3>{title}</h3><p>{text}</p></div><ArrowRight className="bear320-link-arrow" aria-hidden="true" /></Link>)}</div></div></section>
 
  <section className="bear320-section bear320-programs" id="application"><div className="wrap bear320-program-layout"><div><p className="section-label">BEST-FIT USE</p><h2>Ribbed PET Honey Bottle Programs We Supply</h2><p>We supply the nine stock models as distinct bottle-and-closure assemblies for honey brands, contract packers, importers and private-label programs. The range can build a coordinated capacity ladder, but every model keeps its own fill, label and carton specification.</p></div><div className="bear320-program-grid">{programs.map(([title,text])=><article key={title}><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
 

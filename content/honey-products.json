@@ -5,18 +5,12 @@
     "model": "G-05",
     "material": "PET",
     "image": "bear-g05",
-    "categories": [
-      "plastic",
-      "bear",
-      "squeeze"
-    ],
+    "categories": ["plastic", "bear", "squeeze"],
     "description": "Model G-05 is a clear 320 ml PET honey bear bottle with a defined front label panel and matched 38-400 PP flip-top cap. Its approximate 450 g reference honey fill provides a starting point for branded honey lines; final net weight, headspace, label size, closure configuration and carton packing are confirmed with the sample and quotation.",
     "volume": "320 ml",
     "honeyWeight": "450 g",
     "neck": "38-400",
-    "gallery": [
-      "bear-g05-open"
-    ],
+    "gallery": ["bear-g05-open"],
     "variants": [
       {
         "model": "G-05",
@@ -39,11 +33,7 @@
     "model": "G-41",
     "material": "PET",
     "image": "bear-g41",
-    "categories": [
-      "plastic",
-      "bear",
-      "squeeze"
-    ],
+    "categories": ["plastic", "bear", "squeeze"],
     "description": "Model G-41 is a clear 250 ml PET honey bear bottle with a compact front label panel and matched 38-400 PP flip-top cap. Its approximate 350 g reference honey fill suits smaller branded honey packs; final net weight, headspace, label size, closure configuration and carton packing are confirmed with the sample and quotation.",
     "volume": "250 ml",
     "honeyWeight": "350 g",
@@ -71,17 +61,12 @@
     "model": "G-07",
     "material": "PET",
     "image": "squeeze-g07",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Oval PET squeeze bottle with ribbed sides, a flat label panel and a flip-top cap. The compact 180 ml format has an approximate 250 g reference honey fill.",
+    "categories": ["plastic", "squeeze"],
+    "description": "Model G-07 is a clear 180 ml PET honey squeeze bottle with ribbed side grips, a flat front label panel and matched 28-400 PP flip-top cap. Its approximate 250 g reference honey fill suits compact branded honey packs; final net weight, headspace, label size, outlet configuration and carton packing are confirmed with the sample and quotation.",
     "volume": "180 ml",
     "honeyWeight": "250 g",
     "neck": "28-400",
-    "gallery": [
-      "squeeze-g07-use"
-    ],
+    "gallery": ["squeeze-g07-use"],
     "variants": [
       {
         "model": "G-07",
@@ -104,11 +89,8 @@
     "model": "A66",
     "material": "PET",
     "image": "hexagon-squeeze-a66",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Flat hexagon PET honey bottle with a pointed dispensing cap. Broad front and back faces provide space for branding on a distinctive branded 360 ml pack.",
+    "categories": ["plastic", "squeeze"],
+    "description": "Model A66 is a clear 360 ml PET honey squeeze bottle with a faceted six-sided body, broad front and back label faces and a matched 41-410 pointed PP dispensing cap. Its approximate 500 g reference honey fill suits distinctive branded packs; final net weight, headspace, label outlines, outlet configuration and carton packing are confirmed with the sample and quotation.",
     "volume": "360 ml",
     "honeyWeight": "500 g",
     "neck": "41-410",
@@ -135,11 +117,8 @@
     "model": "AD-5",
     "material": "PET",
     "image": "round-pet-jar-ad5",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Clear PET jar with a wide opening for filling and spoon access. The 370 ml body uses a 63-400 neck finish for a matched cap and sealing assembly.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "Model AD-5 is a clear 370 ml wide-mouth PET honey jar with a 63-400 neck finish and matched PP screw cap. Its approximate 500 g reference honey fill suits spoonable honey and wider-nozzle filling; final net weight, liner or seal, label dimensions and export packing are confirmed with the approved sample and quotation.",
     "volume": "370 ml",
     "honeyWeight": "500 g",
     "neck": "63-400",
@@ -166,18 +145,12 @@
     "model": "YGS-BLP0317",
     "material": "Glass",
     "image": "mini-glass-25ml",
-    "categories": [
-      "glass",
-      "mini"
-    ],
-    "description": "Mini round glass jar with a metal lid option for commercial samples and hospitality portions. The 25 ml capacity has a 35 g reference honey fill.",
+    "categories": ["glass", "mini"],
+    "description": "Model YGS-BLP0317 is a clear 25 ml round glass honey jar with a 39-400 neck finish and matched tinplate screw cap. Its approximate 35 g reference honey fill suits controlled commercial portions and tasting samples; final fill weight, lid seal, label dimensions and protective carton packing are confirmed with the approved sample and quotation.",
     "volume": "25 ml",
     "honeyWeight": "35 g",
     "neck": "39-400",
-    "gallery": [
-      "mini-glass-lids",
-      "mini-glass-scene"
-    ],
+    "gallery": ["mini-glass-lids", "mini-glass-scene"],
     "variants": [
       {
         "model": "YGS-BLP0317",
@@ -200,18 +173,12 @@
     "model": "YGS-SPP0583 / 0584 / 0585",
     "material": "Glass",
     "image": "hexagon-glass-family",
-    "categories": [
-      "glass",
-      "hexagon",
-      "mini"
-    ],
-    "description": "Six-sided glass honey jars with flat label panels and metal lid options. Three individual sizes support branded honey lines, including a 250 g reference honey fill option.",
+    "categories": ["glass", "hexagon", "mini"],
+    "description": "Models YGS-SPP0583, YGS-SPP0584 and YGS-SPP0585 form a clear six-sided glass jar series in 85, 100 and 180 ml capacities. Approximate reference honey fills are 120, 140 and 250 g; each jar is sampled with its model-matched tinplate lid, label dimensions and protective carton specification before production.",
     "volume": "85 / 100 / 180 ml",
     "honeyWeight": "120 / 140 / 250 g",
     "neck": "Match the lid to the selected jar",
-    "gallery": [
-      "hexagon-glass-lids"
-    ],
+    "gallery": ["hexagon-glass-lids"],
     "variants": [
       {
         "model": "YGS-SPP0583",
@@ -254,10 +221,8 @@
     "model": "YGS-SPP0449 / 0450 / 0451",
     "material": "Glass",
     "image": "glass-ribbed-family",
-    "categories": [
-      "glass"
-    ],
-    "description": "Beehive-shaped glass honey jars with ribbed walls, a central label panel and matching metal lid options. Three capacities are available for branded honey lines.",
+    "categories": ["glass"],
+    "description": "Models YGS-SPP0449, YGS-SPP0450 and YGS-SPP0451 form a clear ribbed-glass jar series in 180, 350 and 720 ml capacities. Approximate reference honey fills are 250, 500 and 1,000 g; each jar is sampled with its model-matched tinplate lid, center-panel artwork and protective carton specification before production.",
     "volume": "180 / 350 / 720 ml",
     "honeyWeight": "250 / 500 / 1,000 g",
     "neck": "Match the lid to the selected jar",
@@ -304,11 +269,8 @@
     "model": "A71 / A72",
     "material": "PET",
     "image": "catalog-a71-0",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Straight-sided PET honey bottles with dispensing closures in two sizes. The cylindrical bodies provide space for wraparound labels and a taller shelf presentation.",
+    "categories": ["plastic", "squeeze"],
+    "description": "Models A71 and A72 are straight-sided clear PET honey bottles in 250 and 180 ml capacities, with approximate reference honey fills of 350 and 210 g. Both use a 42-400 neck route and are sampled with a matched PP dispensing closure, nozzle outlet, wrap-label dimensions and protective carton specification before production.",
     "volume": "250 ml / 180 ml",
     "honeyWeight": "350 g / 210 g",
     "neck": "See model specifications",
@@ -345,11 +307,8 @@
     "model": "GF-019 / G-109 / GF-018 / GF-017 / YGS-SPP1640 / GF-015 / GF-016 / G-06 / YGS-SPP1654",
     "material": "PET",
     "image": "catalog-gf-019-1",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Ribbed PET honey bottles in multiple capacities and body profiles, with model-specific neck finishes and closure options. The series supports coordinated squeeze-bottle ranges for different honey fill targets.",
+    "categories": ["plastic", "squeeze"],
+    "description": "Choose from nine clear ribbed PET honey bottle models in 70–740 ml capacities for approximate 100 g–1 kg honey fills. We match each stock body with its model-specific neck finish and PP closure, then confirm the label area, sample and carton configuration for your order.",
     "volume": "740 ml / 180 ml / 380 ml / 200 ml / 360 ml / 70 ml / 130 ml / 330 ml / 720 ml",
     "honeyWeight": "1000 g / 250 g / 500 g / 100 g / 180 g / 450 g",
     "neck": "See model specifications",
@@ -456,12 +415,8 @@
     "model": "G-106 / G-104 / G-32 / G-31 / G-30 / YGS-SPP1120 / YGS-SPP1230 / G-33",
     "material": "PET",
     "image": "catalog-g-106-32",
-    "categories": [
-      "plastic",
-      "squeeze",
-      "inverted"
-    ],
-    "description": "Compact PET honey bottles designed for cap-down presentation and convenient dispensing. The series includes several body profiles, capacities and matched closure arrangements.",
+    "categories": ["plastic", "squeeze", "inverted"],
+    "description": "Choose from eight clear PET cap-down honey bottle models in 250–380 ml capacities. We match the selected body with its supporting PP closure, outlet or valve, label orientation and carton configuration, then test the assembled pack with your honey.",
     "volume": "288 ml / 290 ml / 380 ml / 280 ml / 340 ml / 320 ml / 250 ml",
     "honeyWeight": "400 g / 500 g / 480 g / Confirm by filling trial / 460 g",
     "neck": "See model specifications",
@@ -558,12 +513,8 @@
     "model": "G-12",
     "material": "PET",
     "image": "catalog-g-12-30",
-    "categories": [
-      "plastic",
-      "squeeze",
-      "inverted"
-    ],
-    "description": "Oval PET bottle for cap-down honey dispensing, with a 28-400 neck finish. The 360 ml capacity has an approximate 500 g reference honey fill.",
+    "categories": ["plastic", "squeeze", "inverted"],
+    "description": "Model G-12 is a clear 360 ml oval PET bottle developed for cap-down honey dispensing. Its shallow body, broad side faces and 28-400 neck support an approximately 500 g reference honey fill; the PP closure, outlet or valve, label orientation and filled-pack leakage performance are approved as one assembly.",
     "volume": "360 ml",
     "honeyWeight": "500 g",
     "neck": "See model specifications",
@@ -590,11 +541,8 @@
     "model": "AH-2 / A2 / A37 / A3 / A50 / A45 / A1",
     "material": "PET",
     "image": "catalog-ah-2-4",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "PET honey jars with carry-handle options and capacities from 500 to 2,200 ml. The range combines larger honey pack sizes with wide openings and model-specific cap assemblies.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "Seven clear PET honey jar models cover 500 to 2,200 ml capacities for approximately 750 g to 3 kg honey fills. Each jar is specified with its own wide opening and PP cap-and-handle assembly; carrying performance, sealing, label fit and export packing are confirmed at the intended filled weight.",
     "volume": "500 ml / 2000 ml / 720 ml / 1580 ml / 800 ml / 1500 ml / 2200 ml",
     "honeyWeight": "750 g / 2500 g / 1000 g / 2000 g / 1100 g / 3000 g",
     "neck": "See model specifications",
@@ -681,11 +629,8 @@
     "model": "FD-85 / FD-100",
     "material": "PET",
     "image": "catalog-fd-85-11",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Square-style PET honey jars in 360 ml and 440 ml sizes with a 61-400 neck finish. Each size has defined label faces for spoonable honey products.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "Two clear square-style PET honey jars support approximately 500 g and 610 g honey fills. FD-85 and FD-100 share a 61-400 neck route while retaining model-specific dimensions, label panels and packing records; we coordinate the selected jar with its PP cap, liner or seal, artwork and export carton.",
     "volume": "360 ml / 440 ml",
     "honeyWeight": "500 g / 610 g",
     "neck": "See model specifications",
@@ -722,11 +667,8 @@
     "model": "FD-95 / YGS-SPP1971 / YGS-SPP1967-Z / YGS-SPP2301-Z / A25 / LG-25 / FD-96",
     "material": "PET",
     "image": "catalog-fd-95-18",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Compact PET screw-cap jars with wide openings for smaller branded honey packs. PP and PE cap options vary by size and are listed in the specifications.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "Seven clear PET jar models cover 180–200 ml water capacities and approximately 250–280 g reference honey fills. We coordinate each selected jar with its model-specific PP or PE screw cap, liner or seal, label dimensions, filled-sample checks and export carton.",
     "volume": "180 ml / 192 ml / 200 ml / 190 ml",
     "honeyWeight": "250 g / 280 g / 260 g",
     "neck": "See model specifications",
@@ -813,11 +755,8 @@
     "model": "YGS-SPP2051 / GF-021 / G-111 / YGS-SPP1651 / GF-020",
     "material": "PET",
     "image": "catalog-ygs-spp2051-15",
-    "categories": [
-      "plastic",
-      "bear"
-    ],
-    "description": "PET honey bear bottles in varied molded shapes and capacities, including a mini 60 ml format. Each model combines distinctive bear details with a front label panel and matching closure option.",
+    "categories": ["plastic", "bear"],
+    "description": "Choose from five clear PET honey bear bottle models in 60–360 ml water capacities, with approximately 84–500 g reference honey fills. We match each selected bear body with its model-specific PP cap, label area, sample approval and export-carton requirements.",
     "volume": "250 ml / 360 ml / 210 ml / 60 ml / 180 ml",
     "honeyWeight": "350 g / 500 g / 294 g / 84 g / 250 g",
     "neck": "See model specifications",
@@ -884,11 +823,8 @@
     "model": "A26 / A27 / A51 / A52 / A44 / A70 / A33",
     "material": "PET",
     "image": "catalog-a26-17",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "PET honey bottles with pointed dispensing caps and a selection of round and shaped bodies. Different capacities and outlet configurations support controlled serving formats.",
+    "categories": ["plastic", "squeeze"],
+    "description": "Choose from seven clear PET honey bottle models in 200–720 ml water capacities, with approximately 300 g–1 kg reference honey fills. We match each selected body with its model-specific pointed PP cap, outlet, label area, sample approval and export-carton requirements.",
     "volume": "300 ml / 720 ml / 360 ml / 200 ml / 250 ml",
     "honeyWeight": "400 g / 1000 g / 500 g / 300 g / 350 g",
     "neck": "See model specifications",
@@ -975,10 +911,8 @@
     "model": "F-001 / YGS-SPP2215 / YGS-SPP2393 / F-003 / F-004 / YGS-SPP2279 / YGS-SPP1794 / GF-037",
     "material": "PET",
     "image": "catalog-f-001-19",
-    "categories": [
-      "plastic"
-    ],
-    "description": "Tall PET honey bottles with slender or cylindrical profiles for vertical shelf presentation. Model-specific heights, label areas and closures support different filling and branding requirements.",
+    "categories": ["plastic"],
+    "description": "Choose from eight tall clear PET honey bottle models in 90–500 ml water capacities, with approximately 120–700 g reference honey fills. We coordinate each selected body with its model-specific neck route, matched PP or PE closure, usable label area, filled-sample approval and export-carton requirements.",
     "volume": "360 ml / 100 ml / 275 ml / 90 ml / 200 ml / 250 ml / 500 ml / 300 ml",
     "honeyWeight": "500 g / 140 g / 385 g / 120 g / 280 g / 350 g / 700 g / 420 g",
     "neck": "See model specifications",
@@ -1075,10 +1009,8 @@
     "model": "YGS-SPP1808 / G-22 / G-101 / GZ-02 / GZ-05",
     "material": "PET",
     "image": "catalog-ygs-spp1808-20",
-    "categories": [
-      "plastic"
-    ],
-    "description": "Flat-profile PET honey bottles with broad front and back faces for separate labels. Multiple capacities and matched closures support a coordinated branded honey range.",
+    "categories": ["plastic"],
+    "description": "Choose from five clear PET honey bottle models in 150–500 ml water capacities, with approximately 210–750 g reference honey fills. Their broad front and back faces support separate labels; we coordinate the selected body with its 30-400 or 38-400 neck route, matched PP closure, artwork dimensions, filled-sample approval and export-carton requirements.",
     "volume": "500 ml / 290 ml / 280 ml / 150 ml / 370 ml",
     "honeyWeight": "750 g / 380 g / 400 g / 210 g / 500 g",
     "neck": "See model specifications",
@@ -1145,11 +1077,8 @@
     "model": "A9-1 / A47-1 / A9-2 / A8-2 / A9Z-2 / A14-2",
     "material": "PET",
     "image": "catalog-a9-1-26",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Wide-mouth PET honey jars with ribbed or paneled bodies for spoonable honey. The range combines accessible openings, defined label areas and matching closure options.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "Choose from six clear PET wide-mouth jar models for approximately 500 g to 1.25 kg reference honey fills. Ribbed or paneled bodies add grip and structural definition, while model-specific openings, PP closures and usable label zones are coordinated for commercial honey packing.",
     "volume": "750 ml / 730 ml / 720 ml / 850 ml / 360 ml",
     "honeyWeight": "1000 g / 1250 g / 500 g",
     "neck": "See model specifications",
@@ -1226,11 +1155,8 @@
     "model": "G-02",
     "material": "PET",
     "image": "catalog-g-02-28",
-    "categories": [
-      "plastic",
-      "bear"
-    ],
-    "description": "Compact 175 ml PET honey bear bottle with an aluminum cap option and an approximate 227 g reference honey fill. The molded bear body provides a distinctive compact pack format.",
+    "categories": ["plastic", "bear"],
+    "description": "We supply the G-02 as a compact clear PET honey bear bottle for approximately 227 g honey fills. Its defined front label panel, 38-400 neck and aluminum screw-cap option are coordinated as one sample-approved packaging assembly.",
     "volume": "175 ml",
     "honeyWeight": "227 g",
     "neck": "See model specifications",
@@ -1257,11 +1183,8 @@
     "model": "A30 / YGS-HZP3024",
     "material": "PET",
     "image": "catalog-a30-71",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Mini PET dispensing bottles in 60 ml and 125 ml sizes for compact honey packs. Each size combines a small label area with a pointed nozzle closure for controlled serving.",
+    "categories": ["plastic", "squeeze"],
+    "description": "We supply the A30 and YGS-HZP3024 as two compact clear PET honey nozzle bottles for approximately 175 g and 80 g reference fills. Each model is matched with its own pointed PP dispensing closure; label dimensions, outlet performance, cap fit and export packing are approved from the selected assembled sample.",
     "volume": "125 ml / 60 ml",
     "honeyWeight": "175 g / 80 g",
     "neck": "See model specifications",
@@ -1298,11 +1221,8 @@
     "model": "AD-1 / AD-2 / AD-9",
     "material": "PET",
     "image": "catalog-ad-1-79",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Three wide-mouth PET jar profiles for spoonable honey, each with a distinct shoulder shape, label area and matching closure arrangement.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "We supply three clear wide-mouth PET honey jar models for approximately 300 g and 500 g fills. Choose AD-1, AD-2 or AD-9 by jar profile, label area and the matched PP or PE closure route.",
     "volume": "360 ml / 220 ml / 370 ml",
     "honeyWeight": "500 g / 300 g",
     "neck": "See model specifications",
@@ -1349,11 +1269,8 @@
     "model": "YGS-SPP1968 / YGS-SPP1969 / YGS-SPP1969-Z / FD-5 / FD-32 / FD-97 / FD-98",
     "material": "PET",
     "image": "catalog-ygs-spp1968-83",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "PET honey jars with PE screw-cap options, ranging from compact formats to larger packs. Each model has its own capacity, neck finish and packing specification.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "We supply seven clear PET honey jar models for approximately 480 g, 500 g and 1 kg fills. Select the jar by body dimensions, mouth reference, label area and carton requirements, then approve its model-specific PE screw cap and sealing arrangement.",
     "volume": "363 ml / 722 ml / 720 ml / 348 ml / 360 ml / 730 ml",
     "honeyWeight": "500 g / 1000 g / 480 g",
     "neck": "See model specifications",
@@ -1440,11 +1357,8 @@
     "model": "JS-6 / LG-31 / LG-97Z / LG-98Z",
     "material": "PET",
     "image": "catalog-js-6-114",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "PET honey jars in 360 ml and 730 ml capacities with aluminum cap options. Coordinate the metal lid finish with your label for a consistent branded presentation.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "We supply four clear PET honey jar models in 360 ml and 730 ml sizes with coordinated aluminum-cap options. Select the jar by body dimensions, mouth reference and label area, then approve the model-specific cap finish, liner or seal and carton plan.",
     "volume": "360 ml / 730 ml",
     "honeyWeight": "500 g / 1000 g",
     "neck": "See model specifications",
@@ -1501,11 +1415,8 @@
     "model": "YGS-SPP0012 / YGS-SPP0013 / YGS-SPP0010 / GJ-009",
     "material": "PET",
     "image": "catalog-ygs-spp0012-103",
-    "categories": [
-      "plastic",
-      "plastic-jars"
-    ],
-    "description": "Round PET honey jars with PP cap options and capacities from 360 to 725 ml. The series includes different body proportions, shoulder profiles and cap dimensions.",
+    "categories": ["plastic", "plastic-jars"],
+    "description": "We supply four clear round PET honey jar models for approximately 500 g, 525 g and 1 kg fills. Each jar is specified with its own PP cap route, label area and carton plan for commercial honey packing.",
     "volume": "374 ml / 725 ml / 360 ml / 700 ml",
     "honeyWeight": "525 g / 1000 g / 500 g",
     "neck": "See model specifications",
@@ -1562,11 +1473,8 @@
     "model": "YGS-SPP0586 / YGS-SPP0587 / YGS-SPP0588",
     "material": "Glass",
     "image": "catalog-ygs-spp0586-97",
-    "categories": [
-      "glass",
-      "mini"
-    ],
-    "description": "Three mini glass jar shapes in 80 ml or 100 ml capacities with metal lid options. The compact profiles suit commercial samples, hospitality portions and small-fill honey lines.",
+    "categories": ["glass", "mini"],
+    "description": "We supply three compact glass honey jar models in 80 ml and 100 ml sizes for commercial samples, hospitality portions and controlled small-fill programs. Each model is specified with its matching tin-lid route, label area and protective packing plan.",
     "volume": "80 ml / 100 ml",
     "honeyWeight": "110 g / 140 g",
     "neck": "See model specifications",
@@ -1613,10 +1521,8 @@
     "model": "A54",
     "material": "PET",
     "image": "honey-bottle-360ml",
-    "categories": [
-      "plastic"
-    ],
-    "description": "A 360 ml PET honey bottle with a PP cap option and an approximate 500 g reference honey fill. The final body shape, closure and dimensions are supplied through the approved product drawing and sample.",
+    "categories": ["plastic"],
+    "description": "Model A54 is a clear 360 ml PET bottle developed for approximately 500 g honey packs. Its rounded oval profile supports upright shelf presentation, while the selected PP closure, label area, fill level and carton specification are confirmed on an approved sample.",
     "volume": "360 ml",
     "honeyWeight": "500 g",
     "neck": "See model specifications",
@@ -1643,11 +1549,8 @@
     "model": "G-20 / G-21",
     "material": "PET",
     "image": "catalog-g-20-125",
-    "categories": [
-      "plastic",
-      "squeeze"
-    ],
-    "description": "Oval PET honey bottles in 350 ml and 360 ml sizes, with front and back label areas. The two formats provide similar fill volumes with distinct body proportions and matching closure options.",
+    "categories": ["plastic", "squeeze"],
+    "description": "G-20 and G-21 are clear oval PET honey bottles for approximately 480 g and 500 g honey packs. Their broad front and back faces support two-panel branding, while each model retains its own body proportions, PP cap assembly and filling setup.",
     "volume": "350 ml / 360 ml",
     "honeyWeight": "480 g / 500 g",
     "neck": "See model specifications",
@@ -1684,10 +1587,8 @@
     "model": "",
     "material": "PP",
     "image": "/assets/honey-gallery/flip-top-honey-bottle-caps/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "PP flip-top caps for upright PET honey squeeze bottles, with a hinged lid and controlled dispensing outlet. The range includes 28-400 and 38-400 compatible formats, with color options prepared for the selected bottle.",
+    "categories": ["closures"],
+    "description": "We supply PP flip-top caps for compatible upright PET honey squeeze bottles. Selected 28-400 and 38-400 routes combine an attached hinged lid with a controlled open outlet; the exact thread, sealing surface, plug geometry, color and any liner or seal are approved on the chosen bottle.",
     "volume": "28-400 / 38-400",
     "honeyWeight": "Open dispensing outlet",
     "neck": "28-400 / 38-400",
@@ -1714,10 +1615,8 @@
     "model": "",
     "material": "PP",
     "image": "/assets/honey-gallery/pointed-nozzle-honey-caps/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "PP pointed nozzle caps for honey bottles, with a narrow tapered outlet for controlled, directional dispensing. Thread, outlet and color configurations are prepared to suit the selected PET bottle.",
+    "categories": ["closures"],
+    "description": "We supply PP pointed nozzle caps for controlled, directional honey dispensing. The tapered opening, screw fit, protective closing tip, color and any liner or seal are matched to the selected PET bottle and approved with the intended honey flow.",
     "volume": "Match selected bottle",
     "honeyWeight": "Tapered dispensing outlet",
     "neck": "Match selected bottle",
@@ -1744,10 +1643,8 @@
     "model": "",
     "material": "PP + silicone",
     "image": "/assets/honey-gallery/inverted-honey-bottle-valve-caps/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "Wide-base PP caps for inverted honey bottles, designed for stable cap-down presentation and controlled dispensing. A silicone valve option supports cleaner flow and reclosure for compatible bottle assemblies.",
+    "categories": ["closures"],
+    "description": "We supply wide-base PP closures for inverted PET honey bottles, developed for stable cap-down presentation and controlled dispensing. The supporting base, open outlet or optional silicone valve, sealing route, color and packing are matched to the selected bottle and approved with the intended honey.",
     "volume": "Match inverted bottle",
     "honeyWeight": "Silicone valve option",
     "neck": "Match inverted bottle",
@@ -1774,10 +1671,8 @@
     "model": "",
     "material": "PP",
     "image": "/assets/honey-gallery/plastic-screw-caps-for-honey-jars/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "Ribbed PP screw caps for wide-mouth PET honey jars, providing a secure grip for opening and reclosure. Liner and seal options are available for compatible threaded jar finishes.",
+    "categories": ["closures"],
+    "description": "We supply ribbed PP screw caps for wide-mouth PET honey jars requiring practical grip and repeated reclosure. The complete threaded finish, liner or seal route, application torque, color and packing are matched to the selected jar and filling process.",
     "volume": "Match PET jar finish",
     "honeyWeight": "Liner or seal on request",
     "neck": "Match PET jar finish",
@@ -1804,10 +1699,8 @@
     "model": "",
     "material": "Tinplate",
     "image": "/assets/honey-gallery/metal-twist-off-honey-jar-lids/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "Tinplate twist-off lids for compatible glass honey jars, available in selected diameters and finishes. The lug closure uses a food-contact sealing compound to support the specified jar assembly and filling process.",
+    "categories": ["closures"],
+    "description": "We supply tinplate twist-off lids for compatible glass honey jars requiring a short opening turn and traditional metal presentation. The complete lug finish, food-contact sealing compound, filling process, lid finish and packing are matched to the selected jar and approved assembly.",
     "volume": "Match glass jar finish",
     "honeyWeight": "Food-contact compound / liner",
     "neck": "Match glass jar finish",
@@ -1834,10 +1727,8 @@
     "model": "",
     "material": "Aluminum",
     "image": "/assets/honey-gallery/aluminum-screw-caps-for-honey-jars/full.webp",
-    "categories": [
-      "closures"
-    ],
-    "description": "Aluminum screw caps for threaded PET honey jars, combining a metallic finish with a lightweight closure. Silver, gold and selected color finishes can be paired with liner options for compatible jars.",
+    "categories": ["closures"],
+    "description": "We supply lightweight aluminum screw caps for threaded PET honey jars requiring a coordinated metallic presentation. The complete jar finish, formed thread, liner route, application torque, surface treatment and protective packing are matched to the selected jar and filling process.",
     "volume": "Match threaded jar finish",
     "honeyWeight": "Liner on request",
     "neck": "Match threaded jar finish",

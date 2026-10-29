@@ -86,26 +86,26 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
           : p.slug === "ribbed-wide-mouth-pet-honey-jars"
             ? "Compare six ribbed wide-mouth PET honey jar models in 360–850 ml sizes, with 500 g–1.25 kg reference fills, neck routes and matched PP closures."
             : p.slug === "flat-pet-honey-bottles"
-              ? "Compare five flat-profile PET honey bottles in 150–500 ml sizes, with verified dimensions, neck routes, reference honey fills and bulk packing data."
+              ? "Compare five flat-profile PET honey bottles in 150–500 ml sizes, with verified dimensions, neck routes, reference honey fills and carton packing data."
               : p.slug === "tall-pet-honey-bottles"
-                ? "Compare eight tall PET honey bottles in 90–500 ml sizes, with verified dimensions, neck routes, reference honey fills and bulk packing data."
+                ? "Compare eight tall PET honey bottles in 90–500 ml sizes, with verified dimensions, neck routes, reference honey fills and carton packing data."
                 : p.slug === "pointed-cap-honey-bottles"
                   ? "Compare seven pointed-cap PET honey bottles in 200–720 ml sizes, with verified model dimensions, neck finishes, reference honey fills and order data."
                   : p.slug === "pet-honey-bear-bottle-options"
-                    ? "Compare five PET honey bear bottle models in 60–360 ml sizes, with verified neck finishes, matched PP caps, reference honey fills and bulk packing data."
+                    ? "Compare five PET honey bear bottle models in 60–360 ml sizes, with verified neck finishes, matched PP caps, reference honey fills and carton packing data."
                     : p.slug === "ribbed-pet-honey-bottles"
-                      ? "Compare nine ribbed PET honey bottle models in 70–740 ml sizes, with verified dimensions, neck finishes, matched PP caps and bulk packing data."
+                      ? "Compare nine ribbed PET honey bottle models in 70–740 ml sizes, with verified dimensions, neck finishes, matched PP caps and carton packing data."
                       : p.slug === "compact-inverted-honey-bottles"
-                        ? "Compare eight compact inverted PET honey bottle models in 250–380 ml sizes, with cap-down closures, verified dimensions and bulk packing data."
+                        ? "Compare eight compact inverted PET honey bottle models in 250–380 ml sizes, with cap-down closures, verified dimensions and carton packing data."
                         : p.slug === "oval-inverted-honey-bottle"
-                          ? "Review the G-12 360 ml oval inverted PET honey bottle, including 28-400 neck, dimensions, matched PP closure, MOQ and bulk carton data."
+                          ? "Review the G-12 360 ml oval inverted PET honey bottle, including 28-400 neck, dimensions, matched PP closure, MOQ and carton data."
                           : p.slug === "honey-jars-with-handles"
-                            ? "Compare seven PET honey jars with carry handles in 500–2,200 ml sizes, with verified dimensions, matched PP closures and bulk carton data."
+                            ? "Compare seven PET honey jars with carry handles in 500–2,200 ml sizes, with verified dimensions, matched PP closures and carton data."
                             : p.slug === "square-pet-honey-jars"
-                              ? "Compare FD-85 and FD-100 square PET honey jars in 360 and 440 ml sizes, with 61-400 necks, matched PP caps, label panels and bulk packing data."
+                              ? "Compare FD-85 and FD-100 square PET honey jars in 360 and 440 ml sizes, with 61-400 necks, matched PP caps, label panels and carton packing data."
                               : p.slug === "small-wide-mouth-honey-jars"
-                                ? "Compare seven small wide-mouth PET honey jar models in 180–200 ml sizes, with 250–280 g reference fills, matched PP or PE caps and bulk packing data."
-                                : `${p.description} Request samples and a bulk quote.`;
+                                ? "Compare seven small wide-mouth PET honey jar models in 180–200 ml sizes, with 250–280 g reference fills, matched PP or PE caps and carton packing data."
+                                : `${p.description} Request samples and a wholesale quote.`;
   return meta(p.title, description, `/products/${p.slug}/`, p.image);
 }
 export default function ProductPage({ params }: { params: { slug: string } }) {
@@ -619,8 +619,8 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
           <div className="product-intro-copy">
             <p className="meta">
               {isClosure
-                ? "Bulk closures for honey packaging"
-                : "Bulk honey packaging"}
+                ? "Wholesale closures for honey packaging"
+                : "Wholesale honey packaging"}
             </p>
             <h1>{p.title}</h1>
             {isEnhancedProduct && (

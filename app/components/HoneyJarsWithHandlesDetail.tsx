@@ -34,7 +34,7 @@ const programs:[string,string][]=[
 ];
 
 const support:[string,string[]][]=[
- ['Applications',['Approx. 750 g to 3 kg honey fills','Larger spoonable or pourable packs','Foodservice and bulk formats','Contract filling programs']],
+ ['Applications',['Approx. 750 g to 3 kg honey fills','Larger spoonable or pourable packs','Foodservice and high-volume formats','Contract filling programs']],
  ['Key features',['Seven clear PET stock models','Model-specific carry-handle caps','69-400, 85-400 or 118-400 necks','Wide openings for filling and access']],
  ['Customization',['Jar and cap color review','Liner or seal confirmation','Label-panel sizing','Filled-load and carton trials']]
 ];

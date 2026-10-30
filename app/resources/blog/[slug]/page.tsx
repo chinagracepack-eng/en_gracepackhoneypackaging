@@ -3,6 +3,7 @@ import type {ReactNode} from 'react';
 import {notFound} from 'next/navigation';
 import {posts,postUrl,blogUrl,categoryUrl,blogCategories} from '../../../blog-data';
 import {BlogSidebar} from '../../../components/Blog';
+import BlogEditorialReview from '../../../components/BlogEditorialReview';
 import BlogShare from '../../../components/BlogShare';
 import Inquiry from '../../../components/Inquiry';
 import {Breadcrumbs,Photo,ProductCard} from '../../../components/Common';
@@ -40,7 +41,7 @@ export default function Page({params}:{params:{slug:string}}){
     <p className="section-label">{blogCategories.find(c=>c.slug===p.categories[0])!.title}</p>
     <h1>{p.title}</h1><p className="blog-intro">{p.description}</p>
     <div className="blog-date"><time dateTime={p.date}>Published {displayDate}</time><span>Updated <time dateTime={p.updated||p.date}>{updatedDate}</time></span><span>◷ {p.minutes} min read</span></div>
-    <p className="blog-author">By Gracepack</p>
+    <BlogEditorialReview reviewedDate={updatedDate}/>
     <div className="blog-tags">{p.categories.map(s=><Link href={categoryUrl(s)} key={s}>{blogCategories.find(c=>c.slug===s)!.title}</Link>)}<Link href="/custom-honey-packaging/">Custom Packaging</Link><Link href="/quality/">Quality Documents</Link></div>
     <BlogShare title={p.title} url={siteUrl+postUrl(p.slug)}/>
     <figure className="blog-cover"><Photo name={p.image} alt={p.imageAlt||p.title} priority/><figcaption>{p.imageCaption||p.title}</figcaption></figure>
@@ -60,5 +61,5 @@ export default function Page({params}:{params:{slug:string}}){
       <div className="blog-inquiry"><Inquiry id="blog-inquiry" source={`Blog article: ${p.title}`} lazy/></div>
     </div>
     {relatedProducts.length>0&&<div className="blog-related"><h2>Related Products</h2><div className="product-grid">{relatedProducts.map(product=><ProductCard p={product} key={product.slug}/>)}</div></div>}
-  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:{'@type':'ImageObject',url:siteUrl+p.image},datePublished:p.date,dateModified:p.updated||p.date,inLanguage:'en-US',articleSection:p.categories.map(slug=>blogCategories.find(c=>c.slug===slug)?.title).filter(Boolean),keywords:p.keywords?.join(', '),author:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:{'@type':'WebPage','@id':siteUrl+postUrl(p.slug)}}}/>{p.faq&&<JsonLd data={{'@context':'https://schema.org','@type':'FAQPage',mainEntity:p.faq.map(item=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')}}))}}/>}</section>;
+  </article><BlogSidebar post={p}/></div><JsonLd data={{'@context':'https://schema.org','@type':'BlogPosting',headline:p.title,description:p.description,image:{'@type':'ImageObject',url:siteUrl+p.image},datePublished:p.date,dateModified:p.updated||p.date,inLanguage:'en-US',articleSection:p.categories.map(slug=>blogCategories.find(c=>c.slug===slug)?.title).filter(Boolean),keywords:p.keywords?.join(', '),author:{'@type':'Organization',name:'Gracepack Honey Packaging Editorial Team',url:siteUrl+'/about/'},reviewedBy:{'@type':'Organization',name:'Gracepack Honey Packaging Project Team',url:siteUrl+'/about/'},publisher:{'@type':'Organization','@id':siteUrl+'/#organization',name:'Gracepack',logo:{'@type':'ImageObject',url:siteUrl+'/assets/logo/logo.png'}},mainEntityOfPage:{'@type':'WebPage','@id':siteUrl+postUrl(p.slug)}}}/>{p.faq&&<JsonLd data={{'@context':'https://schema.org','@type':'FAQPage',mainEntity:p.faq.map(item=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer.replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')}}))}}/>}</section>;
 }

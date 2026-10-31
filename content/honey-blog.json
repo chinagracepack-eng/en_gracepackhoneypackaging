@@ -1,5 +1,528 @@
 [
   {
+    "slug": "plastic-honey-bottles-rfq-checklist",
+    "title": "How to Specify Plastic Honey Bottles: A Complete RFQ Checklist",
+    "seoTitle": "Plastic Honey Bottle RFQ Guide & Checklist",
+    "description": "Download this plastic honey bottle RFQ checklist to specify net weight, capacity, neck finish, closure, filling line, labels, testing, packing and delivery.",
+    "keywords": [
+      "plastic honey bottle RFQ",
+      "how to specify plastic honey bottles",
+      "honey bottle specification checklist",
+      "wholesale honey bottles RFQ",
+      "plastic honey bottle manufacturer",
+      "honey bottle neck finish",
+      "honey bottle closure specification",
+      "honey packaging RFQ checklist",
+      "honey bottle filling line requirements",
+      "honey bottle net weight capacity",
+      "custom plastic honey bottle quote"
+    ],
+    "categories": [
+      "packaging-selection",
+      "filling-production"
+    ],
+    "image": "/assets/blog/plastic-honey-bottle-rfq-checklist.webp",
+    "imageAlt": "Clear plastic honey bottles, yellow dispensing caps, calipers, drawings, and an RFQ checklist on a packaging worktable",
+    "imageCaption": "A useful RFQ defines the honey, bottle, closure, filling line, label, approval tests and delivery terms as one packaging system. Conceptual packaging-development scene based on Gracepack bottle formats.",
+    "related": [
+      "plastic",
+      "filling",
+      "closures",
+      "rfq"
+    ],
+    "relatedProducts": [
+      "honey-bottle-360ml",
+      "pet-honey-bear-bottle-320ml",
+      "oval-inverted-honey-bottle"
+    ],
+    "intro": "A useful plastic honey bottle RFQ does more than ask for a 500 g bottle and a price. When you share the intended fill, filling process, production-line limits, closure function, label requirements, quantity, and destination, we can match the bottle and cap as one working package. The result is a clearer quotation, more useful samples, and fewer surprises during filling, labeling, and shipping.",
+    "directAnswer": "Start with the target honey net weight, measured product density at the intended filling temperature, bottle format and material, nominal and brimful capacities, full neck finish, matched closure and seal, label area, filling-line constraints, order quantity, destination, and required approval tests. Treat the bottle, closure, any liner or valve, and the label as one packaging system. Do not convert grams of honey directly into milliliters without a measured density and an agreed amount of headspace.",
+    "sections": [
+      {
+        "title": "Plastic Honey Bottle RFQ Checklist at a Glance",
+        "paragraphs": [
+          "Use the [editable plastic honey bottle RFQ checklist](/downloads/plastic-honey-bottle-rfq-checklist.xlsx) to keep your requirements and our confirmations in one file. Complete the yellow project-input cells; we use the green cells to confirm the proposed packaging. Send the workbook with any product drawings, line constraints or reference samples you already have.",
+          "The worksheet is deliberately more detailed than a typical contact form. It separates bottle capacity from honey net weight, asks for the complete neck and closure specification, and gives both sides a place to record exceptions before samples or production are approved."
+        ],
+        "table": {
+          "headers": [
+            "RFQ block",
+            "Minimum information",
+            "Requirement status",
+            "Responsibility"
+          ],
+          "rows": [
+            [
+              "Product and fill",
+              "Honey description, declared net weight, density, filling temperature, and headspace",
+              "Required; unknown values flagged for testing",
+              "Your input; confirmed together"
+            ],
+            [
+              "Bottle",
+              "Format, material, nominal capacity, brimful capacity, dimensions, and full neck finish",
+              "Fixed or open to our recommendation",
+              "Your brief; Gracepack confirmation"
+            ],
+            [
+              "Closure",
+              "Cap type, material, outlet or valve, liner or seal, color, and torque criteria",
+              "Required; function fixed before appearance",
+              "Gracepack confirmation; validated together"
+            ],
+            [
+              "Decoration and line",
+              "Label panel, coding area, nozzle size, line speed, capper, and handling constraints",
+              "Required or preferred, with unknowns identified",
+              "Your input; confirmed by line trial"
+            ],
+            [
+              "Commercial and delivery",
+              "Order quantity, annual forecast, packing, Incoterm, destination, and required date",
+              "Required",
+              "Your input; Gracepack quotation"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Start With Honey Net Weight, Not a Bottle Marked in Milliliters",
+        "paragraphs": [
+          "Honey is normally sold by net weight, while a bottle catalog commonly describes internal volume. Those are related measurements, not interchangeable labels. A request for a 500 g pack should therefore begin with 500 g as the commercial target and then use the product density, filling temperature and headspace to determine the required bottle volume.",
+          "For U.S. consumer packs, the net quantity declaration needs to follow the rules that apply to the product and market. The current [NIST Handbook 130](https://www.nist.gov/pml/owm/nist-handbook-130-current-edition) includes the Uniform Packaging and Labeling Regulation used by many states. Your regulatory or legal team should approve the final declaration and label; a catalog capacity reference is not a substitute for that review.",
+          "A catalog statement such as 360 mL / approximately 500 g is a useful starting point, not a production guarantee. Gracepack's product records include several 360 mL bottle formats intended for approximately 500 g of honey, but the final net weight still depends on the actual honey and filling conditions."
+        ],
+        "image": "/assets/blog/honey-net-weight-vs-bottle-capacity.webp",
+        "imageAlt": "Filled plastic honey bottle on a digital scale beside a graduated container for comparing net weight and volume",
+        "imageCaption": "Begin with the declared honey net weight, then use measured density and filling conditions to determine the required bottle volume.",
+        "table": {
+          "headers": [
+            "Term",
+            "What it means in an RFQ",
+            "Common mistake"
+          ],
+          "rows": [
+            [
+              "Target net weight",
+              "The declared weight of honey in the finished pack, excluding the bottle and closure",
+              "Writing 500 g as though it were bottle capacity"
+            ],
+            [
+              "Nominal or water capacity",
+              "The stated reference volume under a defined measurement method",
+              "Assuming every nominal capacity is measured at the same fill line"
+            ],
+            [
+              "Working fill capacity",
+              "The volume occupied by the intended honey at the approved production fill level",
+              "Filling to the shoulder by appearance without checking net weight"
+            ],
+            [
+              "Brimful or overflow capacity",
+              "The maximum volume to the defined brim or overflow point",
+              "Treating overflow capacity as the recommended production fill"
+            ],
+            [
+              "Headspace",
+              "The unfilled space needed for filling accuracy, closure application and product behavior",
+              "Using every available milliliter and contaminating the sealing surface"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Estimate the Required Bottle Volume, Then Confirm It With a Fill Trial",
+        "paragraphs": [
+          "Use this planning equation: required product volume = target honey net weight ÷ measured honey density at the intended filling temperature. If a 500 g honey sample measures 1.40 g/mL under the intended filling conditions, the product occupies about 357 mL. This is only a planning example. Density changes with honey composition and temperature, and the package still needs an approved fill level and sufficient headspace.",
+          "Do not solve uncertainty by ordering an oversized bottle without checking how the filled package will look. Excess headspace can make the package appear underfilled, reduce the visual impact of the honey, and increase the package footprint. Too little headspace can leave honey on the threads or sealing surface during nozzle withdrawal and capping. Ask us for nominal and brimful capacities, then fill and weigh representative samples under the intended process conditions.",
+          "This calculation is especially important when moving between metric and U.S. customary pack sizes. A 500 g pack, a 16 oz pack and a one-pound pack are close enough to be confused but not identical. Keep the exact declaration in the RFQ instead of using a rounded nickname such as one-pound class."
+        ],
+        "image": "/assets/blog/calculate-honey-bottle-volume.webp",
+        "imageAlt": "Honey bottle volume calculation with a graduated cylinder, fill-level marker, calculator, and clear PET bottle",
+        "imageCaption": "Use the honey's measured density to estimate product volume, then confirm the fill level and headspace with actual samples."
+      },
+      {
+        "title": "Describe the Honey and Filling Process",
+        "paragraphs": [
+          "The same bottle can perform differently with different honey formulations and filling conditions. Clear, warmed liquid honey may flow cleanly through a smaller nozzle; cooler or partly crystallized honey may need a larger flow path, a slower filling speed, and different shutoff behavior. Send the normal operating range rather than a single ideal laboratory value.",
+          "Food-contact suitability also depends on intended use. The FDA's [food types and conditions of use tables](https://www.fda.gov/food/packaging-food-contact-substances-fcs/food-types-conditions-use-food-contact-substances) distinguish conditions such as room-temperature filling, refrigerated storage and hot filling. Ask for documents that map the proposed bottle, cap, liner or valve to the named material and intended conditions. Avoid the vague request for an FDA certificate, which can obscure the actual regulatory basis and scope."
+        ],
+        "image": "/assets/blog/honey-filling-temperature-viscosity.webp",
+        "imageAlt": "Honey flowing from a sanitary filling nozzle into a clear PET bottle with temperature and viscosity details",
+        "imageCaption": "Filling temperature, viscosity, nozzle size, and flow behavior all influence the bottle and closure recommendation.",
+        "bullets": [
+          "Honey type, filtration level and any inclusions or crystallization tendency",
+          "Measured density and the temperature at which it was measured",
+          "Normal, minimum and maximum filling temperatures",
+          "Viscosity or a representative filled sample when no reliable value is available",
+          "Target net weight, fill tolerance and control method",
+          "Expected storage temperature, shelf life and distribution conditions",
+          "Whether the closed pack will stand upright, cap-down or in both orientations"
+        ]
+      },
+      {
+        "title": "Choose a Bottle Shape That Fits Your Honey and Filling Line",
+        "paragraphs": [
+          "Bottle shape affects filling, labeling, dispensing, and shelf presentation. An upright squeeze bottle needs a stable base and flexible panels that recover after use. An inverted bottle needs a closure wide enough to support the filled package while keeping honey close to the outlet. A bear-shaped bottle gives honey an instantly recognizable presentation, while an oval or flat-panel bottle provides more room for a front label. Wide-mouth jars suit filling and serving methods that require a larger opening.",
+          "For a familiar retail format, consider our [320 mL PET honey bear bottle](/products/pet-honey-bear-bottle-320ml/) with its molded shape and matched closure. If clean cap-down dispensing is the priority, the [360 mL oval inverted honey bottle](/products/oval-inverted-honey-bottle/) provides a practical alternative. Once you select a preferred format, we confirm the exact model and drawing revision and prepare assembled samples for your filling and line checks."
+        ],
+        "image": "/assets/blog/choose-plastic-honey-bottle-shape.webp",
+        "imageAlt": "Upright squeeze bottle, PET honey bear bottle, inverted honey bottle, and wide-mouth honey jar compared side by side",
+        "imageCaption": "Choose the bottle shape around dispensing, label space, production-line handling, and the way the finished package will be displayed.",
+        "table": {
+          "headers": [
+            "Bottle item",
+            "What to state",
+            "What Gracepack confirms"
+          ],
+          "rows": [
+            [
+              "Material",
+              "PET, rPET/PCR requirement, color and clarity target",
+              "Resin/material description and available supporting documents"
+            ],
+            [
+              "Capacity",
+              "Target working fill, nominal capacity and brimful capacity",
+              "Measurement method and capacity tolerance"
+            ],
+            [
+              "Dimensions",
+              "Maximum height, width, depth and footprint allowed by line and case",
+              "Dimensioned drawing with tolerances"
+            ],
+            [
+              "Bottle weight",
+              "Target or existing benchmark if lightweighting is a goal",
+              "Nominal body weight and tolerance"
+            ],
+            [
+              "Panel and grip",
+              "Usable label area, squeeze zone and consumer handling needs",
+              "Panel dimensions and physical samples"
+            ],
+            [
+              "Orientation",
+              "Upright, cap-down or dual-orientation use",
+              "Stability and leakage test plan for the intended orientation"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Specify the Neck, Cap and Seal as One Assembly",
+        "paragraphs": [
+          "Neck diameter alone does not define compatibility. Include the complete finish designation, thread geometry, sealing surface, and any bottle-specific drawing. A nominal 38 mm closure from one source may not seal another 38 mm neck if the thread, plug, liner, or tamper-evident features differ.",
+          "Choose the dispensing behavior before choosing the cap appearance. A flip-top cap with an open dispensing orifice can suit free-flowing honey and a simple squeeze routine. A pointed nozzle can improve placement. A valve can provide cleaner shutoff in an inverted package, but it adds another component that must be checked for opening force, flow rate, crystallization, and long-term leakage.",
+          "Ask us to quote the assembled system, including the cap, liner, induction seal, valve or tamper-evident feature. Review [PP flip-top caps for honey bottles](/products/flip-top-honey-bottle-caps/) as bottle-matched options rather than assuming that one cap fits an entire catalog."
+        ],
+        "image": "/assets/blog/match-honey-bottle-closure.webp",
+        "imageAlt": "Plastic honey bottle neck with matched flip-top cap, pointed nozzle, liner, plug seal, and dispensing components",
+        "imageCaption": "The neck finish, cap, liner or valve, and sealing method must be specified and tested as one assembled closure system.",
+        "bullets": [
+          "Full neck finish and drawing revision",
+          "Closure part number, resin, color and surface finish",
+          "Outlet diameter or valve specification",
+          "Liner, plug seal, induction seal or pressure-sensitive seal",
+          "Tamper-evident requirement and consumer opening sequence",
+          "Application and removal torque ranges",
+          "Cap feeder, chute and capping-head compatibility",
+          "Leak and dispensing acceptance criteria with the actual honey"
+        ]
+      },
+      {
+        "title": "Share Your Filling-Line Constraints",
+        "paragraphs": [
+          "A bottle can pass a bench test and still cause problems on a production line. Send us a short equipment brief with the first RFQ. Include filler type, nozzle outside diameter, nozzle travel, line speed, conveyor width, guide-rail range, star-wheel or puck requirements, labeler type, cap sorter and capping method.",
+          "Tall, narrow bottles may be sensitive to conveyor transfers. Oval or flat-sided bottles need consistent orientation during labeling. A flexible squeeze bottle can deform if the side guides are set too tightly. A pointed cap may exceed the height available under an existing capper or case packer. These issues are easier to resolve while comparing samples than after a production order arrives.",
+          "Ask whether samples can be supplied from the same tooling, at the same bottle weight, and with the same closure configuration proposed for production. For a new format, reserve enough samples for repeated filling, capping, labeling, leak, and packing trials; one display bottle is not enough for a line trial."
+        ],
+        "image": "/assets/blog/honey-bottle-filling-line-compatibility.webp",
+        "imageAlt": "Clear plastic honey bottles moving through filling, capping, and guide-rail equipment on a production line",
+        "imageCaption": "Bottle dimensions, stability, nozzle clearance, guide rails, and capping equipment should be checked under production conditions."
+      },
+      {
+        "title": "Define the Label, Decoration and Coding Area",
+        "paragraphs": [
+          "State whether the pack will use a pressure-sensitive label, shrink sleeve, direct print or another decoration. Ask for the usable panel, not just the maximum body width and height. Curved shoulders, ribs, recessed panels, mold parting lines and squeeze zones can reduce the area that accepts artwork cleanly.",
+          "Send the label stock, adhesive family and application temperature when they are known. Confirm front-panel orientation, barcode quiet zones, lot-code location and whether the bottle will be labeled empty or after filling. On an inverted pack, the artwork must read correctly while the bottle stands on its cap.",
+          "Do not release final artwork from a catalog image. Use an approved drawing and a physical sample, then run the final label on a representative filled pack."
+        ],
+        "image": "/assets/blog/honey-bottle-label-coding-area.webp",
+        "imageAlt": "Clear oval honey bottle with a blank front label panel, pressure-sensitive label roll, and lot-code location detail",
+        "imageCaption": "Confirm the usable label panel, bottle orientation, label stock, barcode area, and lot-code position before artwork is released."
+      },
+      {
+        "title": "Ask for Samples, Tests and Documents by Exact Component",
+        "paragraphs": [
+          "The approval plan should follow the actual bill of materials. A PET bottle report does not automatically cover the PP cap, silicone valve, liner, color concentrate or adhesive. We identify which available document applies to each quoted component and intended use.",
+          "For stock bottles, a practical sequence is drawing review, empty assembled samples, filled-pack checks, a line trial, final artwork approval and a signed production sample. For a custom mold, add design review, prototype or trial tooling as appropriate, first-article dimensions and an agreed change-control process.",
+          "At Gracepack, we connect the selected bottle, closure, liner or valve, samples, drawing and export pack under one project reference. This makes it easier to see which document belongs to each component and to review the complete pack against your product, market and production requirements."
+        ],
+        "image": "/assets/blog/honey-bottle-packaging-tests.webp",
+        "imageAlt": "Filled honey bottle undergoing leak, closure torque, label, and complete-package checks before approval",
+        "imageCaption": "Test the filled bottle, closure, dispensing function, label, and packing method together before approving production.",
+        "table": {
+          "headers": [
+            "Approval check",
+            "Suggested evidence",
+            "Typical pass question"
+          ],
+          "rows": [
+            [
+              "Fill weight and headspace",
+              "Repeated filled samples at the intended temperature",
+              "Does the pack meet net weight without wetting the neck or looking underfilled?"
+            ],
+            [
+              "Closure fit",
+              "Torque record, thread engagement and visual inspection",
+              "Does the cap apply consistently without cross-threading or panel distortion?"
+            ],
+            [
+              "Leakage",
+              "Upright and cap-down hold tests, temperature cycling, and transport simulation as appropriate",
+              "Does the complete pack remain dry through the defined test?"
+            ],
+            [
+              "Dispensing",
+              "Opening force, stream or flow, shut-off and repeated-use test",
+              "Does the outlet work with the actual honey through its expected condition range?"
+            ],
+            [
+              "Label",
+              "Final label stock on filled samples after conditioning",
+              "Does the label remain aligned, adhered and scannable?"
+            ],
+            [
+              "Documentation",
+              "Component-specific reports, declarations and traceable product references",
+              "Can each document be mapped to the quoted material, component and intended use?"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Make the Commercial Quote Comparable",
+        "paragraphs": [
+          "State the initial order quantity and expected annual demand separately. A stock clear bottle, custom cap color, direct printing and a new mold can each have a different MOQ. Ask us to show every threshold and one-time charge separately instead of combining them into one minimum order.",
+          "The destination affects the quotation. Include the delivery city or port, requested Incoterm, pallet preference, container-loading constraints, and target delivery window. Empty bottles take up significant shipping volume, so carton dimensions and units per carton can affect delivered cost as much as a small difference in unit price.",
+          "Request a component-level price breakdown for the bottle, closure, liner or valve, seal, decoration, carton, pallet, and tooling. Also confirm the production lead time and the event that starts the lead-time clock. Common triggers include signed sample approval, artwork approval, receipt of the deposit, and material confirmation."
+        ],
+        "image": "/assets/blog/compare-honey-bottle-quotations.webp",
+        "imageAlt": "Three plastic honey bottle options compared with cartons, pallets, packing quantities, and delivered-cost factors",
+        "imageCaption": "Compare the complete bottle-and-closure package, MOQs, packing data, tooling, lead time, and delivery basis—not unit price alone.",
+        "table": {
+          "headers": [
+            "Comparison line",
+            "Quoted option A",
+            "Quoted option B",
+            "Quoted option C"
+          ],
+          "rows": [
+            [
+              "Exact bottle model, weight and drawing revision",
+              "Confirm",
+              "Confirm",
+              "Confirm"
+            ],
+            [
+              "Closure, liner / seal, valve and color included",
+              "Confirm",
+              "Confirm",
+              "Confirm"
+            ],
+            [
+              "MOQ by component and decoration",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Unit price and Incoterm",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Bottle, cap, valve, liner / seal, decoration and assembly prices",
+              "Break down",
+              "Break down",
+              "Break down"
+            ],
+            [
+              "Quantity tiers and price breaks",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Carton quantity, dimensions and gross weight",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Tooling, plate, setup and sample charges",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Production lead-time trigger",
+              "Record",
+              "Record",
+              "Record"
+            ],
+            [
+              "Documents and validation included",
+              "List",
+              "List",
+              "List"
+            ],
+            [
+              "Freight or delivered-cost elements included",
+              "List",
+              "List",
+              "List"
+            ],
+            [
+              "Assumptions, deviations and exclusions",
+              "List",
+              "List",
+              "List"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Who Provides and Confirms Each RFQ Detail",
+        "paragraphs": [
+          "A clear RFQ keeps important details from disappearing into email threads. You provide the honey, filling-line, and market requirements. We confirm the quoted bottle, closure, packing, and commercial specifications. The complete filled package is then approved against the agreed checks.",
+          "If a value has not been measured, mark it as unknown. We can identify what needs to be checked with a sample, drawing review or line trial before the order specification is finalized."
+        ],
+        "image": "/assets/blog/confirm-honey-bottle-rfq-details.webp",
+        "imageAlt": "Honey bottle, matched closure, dimensional drawing, approval checklist, and protective carton coordinated for one RFQ",
+        "imageCaption": "Clear project responsibilities keep the bottle, closure, samples, documents, packing, and delivery details aligned.",
+        "table": {
+          "headers": [
+            "Decision",
+            "What you provide",
+            "What Gracepack confirms",
+            "What we validate together"
+          ],
+          "rows": [
+            [
+              "Pack size",
+              "Declared net weight and target market",
+              "Nominal and brimful capacity with measurement method",
+              "Working fill level and headspace using the actual honey"
+            ],
+            [
+              "Bottle and closure",
+              "Preferred format and dispensing experience",
+              "Model, material, neck, cap, liner / seal, valve and included components",
+              "Fit, torque, leakage, opening and dispensing"
+            ],
+            [
+              "Production line",
+              "Nozzle, speed, conveyor, capper, sealer and labeler constraints",
+              "Dimensions, handling limits and recommended setup points",
+              "Representative line trial and agreed acceptance criteria"
+            ],
+            [
+              "Artwork",
+              "Label type, content, barcode and coding requirements",
+              "Usable panel, orientation and decoration limits",
+              "Final label on a conditioned filled pack"
+            ],
+            [
+              "Quality and documents",
+              "Destination-market and internal approval requirements",
+              "Component-specific documents, traceability, and change-control process",
+              "Document mapping and signed approval sample"
+            ],
+            [
+              "Delivery",
+              "Quantity, forecast, named place, Incoterm and required window",
+              "MOQ, price, packing data and lead-time trigger",
+              "Comparable landed-cost basis and order specification"
+            ]
+          ]
+        }
+      },
+      {
+        "title": "Copy-Ready RFQ Email",
+        "paragraphs": [
+          "Subject: RFQ — Plastic Honey Bottle and Closure Assembly for [Target Net Weight]",
+          "Hello, we are sourcing an empty plastic bottle and matched closure for [honey description] sold in [target market]. The declared net weight is [weight and unit]. Within our intended filling-temperature range of [range], the measured product density is [value and unit]. Our target fill level and headspace are [requirement].",
+          "We prefer a [upright / inverted / bear / oval / jar] format in [material and color]. Please propose a stock model or custom route and return the nominal capacity, brimful capacity, bottle weight, dimensioned drawing, full neck finish and usable label area. The closure must be [type], with [liner / seal / valve / tamper-evident feature], in [color]. Please identify every included component and its material.",
+          "Our filling line uses [filler and nozzle], runs at [speed], and has the following handling limits: [height / width / conveyor / capper / labeler constraints]. We require [sample quantity] assembled samples for filling, capping, leakage, dispensing and label trials.",
+          "Please quote an initial order of [quantity] and provide volume pricing based on an annual forecast of [quantity]. Delivery is to [city / port] under [Incoterm]. Include the MOQ for each component, unit price, tooling and decoration charges, carton quantity and dimensions, pallet plan, lead-time trigger, available food-contact documents for the named components and intended use, and any exceptions or questions."
+        ]
+      },
+      {
+        "title": "What to Expect From a Complete Bottle-and-Cap Proposal",
+        "paragraphs": [
+          "Our proposal should do more than repeat the requested 500 g size and attach a price list. It should identify a specific bottle-and-closure assembly, explain which details remain open, provide measurable commercial data and set out a practical sample plan.",
+          "For Gracepack projects, we use the completed checklist to select an existing bottle configuration, confirm the matched closure, prepare assembled samples, and coordinate the drawing, label reference, supporting documents, and export packing for the selected model. If our stock range does not fit your production line or brand requirements, the same brief provides a clear basis for discussing custom packaging.",
+          "Send the completed worksheet through the inquiry form below, or use the [contact page](/contact/) with your existing purchasing documents. You can begin with only the fields you know. The most useful first message includes the target net weight, filling temperature, preferred bottle orientation, closure function, quantity, and destination. We can identify the remaining checks before recommending a bottle-and-closure combination."
+        ],
+        "bullets": [
+          "Named bottle and closure part numbers",
+          "Dimensioned drawing and capacity definitions",
+          "Component-by-component quotation and MOQ",
+          "List of included documents and their scope",
+          "Sample quantity, cost and dispatch plan",
+          "Production and packing lead-time assumptions",
+          "Open technical questions and proposed approval tests"
+        ]
+      }
+    ],
+    "faqTitle": "Plastic Honey Bottle RFQ Questions",
+    "faq": [
+      {
+        "question": "What is the most important information in a plastic honey bottle RFQ?",
+        "answer": "Start with the target honey net weight, measured density at the intended filling temperature, bottle orientation, full neck finish, closure function, filling-line constraints, order quantity, and delivery destination. These details help us identify suitable bottle-and-closure combinations and the tests needed before approval."
+      },
+      {
+        "question": "Does a 500 g honey pack need a 500 mL bottle?",
+        "answer": "No. Grams measure weight and milliliters measure volume. Calculate an initial product volume from the actual honey density at the filling temperature, then add the headspace required for filling and closure application. Confirm the result by filling and weighing representative samples."
+      },
+      {
+        "question": "What is the difference between nominal and brimful capacity?",
+        "answer": "Nominal capacity is a stated reference volume measured under a defined method. Brimful or overflow capacity is the maximum volume to a defined brim or overflow point. Neither automatically equals the recommended production fill, so request both definitions and confirm an approved working fill level."
+      },
+      {
+        "question": "Is a neck diameter enough to select a honey bottle cap?",
+        "answer": "No. State the complete neck finish and match the thread, sealing land, plug or liner, tamper-evident features and outlet to the actual bottle. Approve the bottle and closure together as an assembled sample."
+      },
+      {
+        "question": "How many samples are needed before production?",
+        "answer": "Request enough assembled samples for repeated filling, capping, leakage, dispensing, labeling and packing checks. One display sample is rarely sufficient. The exact quantity depends on the number of bottle, cap, liner, valve and label options and the scale of the line trial."
+      },
+      {
+        "question": "Should the RFQ ask for FDA certification?",
+        "answer": "Ask for the regulatory basis and available documents for the exact bottle, cap, liner or valve and intended food-contact use. A generic request for FDA certification can hide the scope of the material, manufacturer and conditions of use. Your compliance team should review the returned evidence for the target market."
+      },
+      {
+        "question": "What shipping information belongs in the first RFQ?",
+        "answer": "Include the destination city or port, requested Incoterm, initial order quantity, annual forecast, pallet preference, delivery window and any container-loading limits. Empty bottles are cube-intensive, so carton dimensions and packing quantity are needed for a realistic delivered-cost comparison."
+      },
+      {
+        "question": "Can a PET honey bottle be warm-filled?",
+        "answer": "Do not approve warm filling from the PET name alone. Send the normal and maximum product temperature, contact time, cooling process and storage conditions. We will confirm the proposed bottle and closure in writing; your team should then run representative samples through the intended production cycle."
+      },
+      {
+        "question": "Can I request a quote without a technical drawing?",
+        "answer": "Yes. Send the commercial and process details you know, along with a reference bottle or photos and the maximum line dimensions. Mark unknown items as open to our recommendation. Before ordering, review and approve the dimensioned drawing, complete component list, and assembled sample prepared for the project."
+      }
+    ],
+    "date": "2026-10-31",
+    "updated": "2026-10-31",
+    "minutes": 22
+  },
+  {
     "slug": "hexagonal-pet-honey-jars-vs-glass",
     "title": "Hexagonal PET Plastic Honey Jars: A Lightweight, Breakage-Resistant Alternative to Glass",
     "seoTitle": "Hexagonal PET Plastic Honey Jars vs. Glass",
